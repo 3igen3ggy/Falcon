@@ -1,0 +1,502 @@
+A                          kpit-Autopilo
+Ctrl + B                   kpit-Airbrakes clos
+Shift + B                  kpit-Airbrakes ope
+B                          kpit-Airbrakes toggl
+Shift + Alt + L            kpit-Aircraftlight
+Shift + Ctrl + F4          kpit-AirSource In
+Shift + Ctrl + F3          kpit-AirSource De
+Ctrl + 3                   kpit-APOverrid
+Ctrl + 1                   kpit-APSwitch Lef
+Ctrl + 2                   kpit-APSwitch Righ
+Alt + ,                    kpit-ALOWaltitude de
+Alt + .                    kpit-ALOWaltitude in
+Alt + F1                   kpit-AuxComm Lft digi
+Alt + F2                   kpit-AuxComm Ctr digi
+Alt + F3                   kpit-AuxComm Rt digi
+Alt + F4                   kpit-AuxComm Band X/
+Alt + F5                   kpit-AuxComm UFC/Backu
+Alt + F6                   kpit-AuxComm AA/T
+Alt + F7                   kpit-UHFNormal/Backu
+F                          kpit-AVT
+Ctrl + G                   kpit-Bettygear hor
+Ctrl + C                   kpit-BettyMaster Cautio
+Shift + C                  kpit-CATI/II
+Alt + Z                    kpit-Chaff/Flareauto/manua
+Z                          kpit-Dropflar
+X                          kpit-Dropchaf
+D                          kpit-Dogfightoverride mod
+J                          kpit-EC
+Ctrl + E                   kpit-Ejec
+Alt + E                    kpit-EPUste
+Ctrl + F                   kpit-FAC
+'                          kpit-FCCsubmode
+Shift + Ctrl + R           kpit-FuelDoo
+Shift + Ctrl + F7          kpit-FuelMaster Switc
+Alt + D                    kpit-DumpFue
+Shift + Ctrl + F5          kpit-FuelPump Switch De
+Shift + Ctrl + F6          kpit-FuelPump Switch In
+Shift + Ctrl + F1          kpit-FuelSwitch De
+Shift + Ctrl + F2          kpit-FuelSwitch In
+Shift + Ctrl + L           kpit-Instrumentlight
+Ctrl + J                   kpit-Jettisonal
+Shift + J                  kpit-JFSswitc
+Alt + K                    kpit-Kneeboardpag
+G                          kpit-Landinggea
+Shift + G                  kpit-Landinggear U
+Alt + G                    kpit-Landinggear Dow
+Shift + Ctrl + Alt + G     kpit-AlternateLanding Gea
+Shift + Ctrl + G           kpit-ResetAlt Gear Extensio
+Ctrl + Alt + L             kpit-Landingligh
+Alt + L                    kpit-LaserAr
+Shift + Ctrl + Alt + M     kpit-MasterArm cycl
+Shift + M                  kpit-MasterArm o
+Ctrl + M                   kpit-MasterArm saf
+Alt + M                    kpit-MasterArm si
+O                          kpit-Manualpitch overrid
+M                          kpit-MRMoverride mod
+C                          kpit-MRM/DFoverride cance
+N                          kpit-NV
+Alt + P                    kpit-Parkingbrak
+Shift + Alt + F11          kpit-PowerDatalin
+Shift + Alt + F6           kpit-PowerFC
+Shift + Alt + F5           kpit-PowerFC
+Shift + Alt + F10          kpit-PowerGP
+Shift + Alt + F2           kpit-PowerHU
+Ctrl + Alt + F1            kpit-PowerMain De
+Ctrl + Alt + F2            kpit-PowerMain In
+Shift + Alt + F12          kpit-PowerMA
+Shift + Alt + F8           kpit-PowerMF
+Shift + Alt + F7           kpit-PowerSM
+Shift + Alt + F1           kpit-PowerTIS
+Shift + Alt + F9           kpit-PowerUF
+Shift + Alt + F3           kpit-PowerLeft Hp
+Shift + Alt + F4           kpit-PowerRight Hp
+Shift + Ctrl + E           kpit-SeatAr
+Ctrl + S                   im-Smoketoggl
+S                          kpit-Steerpointnex
+Shift + S                  kpit-Steerpointpreviou
+Shift + Ctrl + A           kpit-TerrainFollowing Rada
+K                          kpit-Wheelbrake
+Alt + I                    trls-ThrottleIdle Deten
+Alt + -                    trls-ThrottleIdl
+Shift + -                  trls-Stepthrottle dow
+-                          trls-Throttlebac
+=                          trls-Throttleforwar
+Shift + =                  trls-Stepthrottle u
+Ctrl + -                   trls-MinAfterburne
+Ctrl + =                   trls-Fullafterburne
+Shift + Ctrl + Right       trls-Rollrigh
+Shift + Ctrl + Left        trls-Rolllef
+Shift + Ctrl + Down        trls-Noseu
+Shift + Ctrl + Up          trls-Nosedow
+,                          trls-Rudderlef
+.                          trls-Rudderrigh
+Ctrl + Alt + F3            WS-ChaffPowe
+Ctrl + Alt + F4            WS-FlarePowe
+Ctrl + Alt + F5            WS-JammerPowe
+Shift + Z                  WS-PGMDe
+Shift + X                  WS-PGMIn
+Shift + Q                  WS-ProgramDe
+Shift + W                  WS-ProgramIn
+Ctrl + Alt + F6            WS-RWRPowe
+Ctrl + Alt + V             SI-Coursedecremen
+Ctrl + Alt + B             SI-Courseincremen
+Ctrl + Alt + N             SI-Headingdecremen
+Ctrl + Alt + M             SI-Headingincremen
+I                          SI-Modestoggl
+Ctrl + K                   kpit-Hoo
+Shift + Ctrl + Alt + A     UD-Altimetertyp
+Shift + Ctrl + Alt + B     UD-Brightnes
+Shift + Ctrl + Alt + Z     UD-BrightnessDow
+Shift + Ctrl + Alt + X     UD-BrightnessU
+Shift + Ctrl + Alt + C     UD-Colo
+H                          UD-Scaletyp
+Shift + Ctrl + Alt + D     UD-DisplayDE
+Shift + H                  UD-DisplayFLI
+Shift + Ctrl + Alt + S     UD-Headingscale
+Shift + Ctrl + Alt + P     UD-Pitchladde
+Shift + Ctrl + Alt + V     UD-Velocitycue
+Shift + Ctrl + Alt + W     UD-Warningrese
+Shift + Num /              CP-COM
+Shift + Num *              CP-COM
+Shift + Num 7              CP-IF
+Shift + Num 9              CP-LIS
+Shift + Num Enter          CP-NA
+Shift + Num 0              CP-A
+Shift + Num ,              CP-A
+Ctrl + End                 CP-DCSDow
+Ctrl + Home                CP-DCSU
+Ctrl + Pg Up               CP-DCSSe
+Ctrl + Ins                 CP-DCSRetur
+Ctrl + Del                 CP-Rese
+Ctrl + Num 7               CP-1IL
+Ctrl + Num 8               CP-2ALO
+Ctrl + Num 9               CP-
+Ctrl + Num 4               CP-4STP
+Ctrl + Num 5               CP-5CRU
+Ctrl + Num 6               CP-6TIM
+Ctrl + Num 1               CP-7MAR
+Ctrl + Num 2               CP-8FI
+Ctrl + Num 3               CP-9A-CA
+Ctrl + Num 0               CP-0M-SE
+Ctrl + Num Enter           CP-Ente
+Ctrl + D                   CP-DLN
+Ctrl + Num +               CP-Nex
+Ctrl + Num -               CP-Previou
+Ctrl + Pg Dn               CP-DriftC/
+[                          FD-Step
+]                          FD-Step
+Shift + ]                  FD-Step
+Shift + [                  FD-Step
+Ctrl + Alt + F             eftMFD-BrightnessDow
+Ctrl + Alt + G             eftMFD-BrightnessU
+Ctrl + Alt + 1             eftMFD-OSB0
+Ctrl + Alt + 2             eftMFD-OSB0
+Ctrl + Alt + 3             eftMFD-OSB0
+Ctrl + Alt + 4             eftMFD-OSB0
+Ctrl + Alt + 5             eftMFD-OSB0
+Ctrl + Alt + 6             eftMFD-OSB0
+Ctrl + Alt + 7             eftMFD-OSB0
+Ctrl + Alt + 8             eftMFD-OSB0
+Ctrl + Alt + 9             eftMFD-OSB0
+Ctrl + Alt + 0             eftMFD-OSB1
+Ctrl + Alt + Num 1         eftMFD-OSB1
+Ctrl + Alt + Num 2         eftMFD-OSB1
+Ctrl + Alt + Num 3         eftMFD-OSB1
+Ctrl + Alt + Num 4         eftMFD-OSB1
+Ctrl + Alt + Num 5         eftMFD-OSB1
+Ctrl + Alt + Num 6         eftMFD-OSB1
+Ctrl + Alt + Num 7         eftMFD-OSB1
+Ctrl + Alt + Num 8         eftMFD-OSB1
+Ctrl + Alt + Num 9         eftMFD-OSB1
+Ctrl + Alt + Num 0         eftMFD-OSB2
+Shift + Alt + F            ightMFD-BrightnessDow
+Shift + Alt + G            ightMFD-BrightnessU
+Shift + Alt + 1            ightMFD-OSB0
+Shift + Alt + 2            ightMFD-OSB0
+Shift + Alt + 3            ightMFD-OSB0
+Shift + Alt + 4            ightMFD-OSB0
+Shift + Alt + 5            ightMFD-OSB0
+Shift + Alt + 6            ightMFD-OSB0
+Shift + Alt + 7            ightMFD-OSB0
+Shift + Alt + 8            ightMFD-OSB0
+Shift + Alt + 9            ightMFD-OSB0
+Shift + Alt + 0            ightMFD-OSB1
+Shift + Alt + Num 1        ightMFD-OSB1
+Shift + Alt + Num 2        ightMFD-OSB1
+Shift + Alt + Num 3        ightMFD-OSB1
+Shift + Alt + Num 4        ightMFD-OSB1
+Shift + Alt + Num 5        ightMFD-OSB1
+Shift + Alt + Num 6        ightMFD-OSB1
+Shift + Alt + Num 7        ightMFD-OSB1
+Shift + Alt + Num 8        ightMFD-OSB1
+Shift + Alt + Num 9        ightMFD-OSB1
+Shift + Alt + Num 0        ightMFD-OSB2
+Ctrl + F6                  adar-ACM30x2
+Ctrl + F5                  adar-ACMboresigh
+Ctrl + F7                  adar-ACMslewabl
+Ctrl + F8                  adar-ACMvertica
+F1                         adar-Airto Ai
+F2                         adar-Airto Groun
+F5                         adar-Antennatilt dow
+F7                         adar-Antennatilt u
+F6                         adar-Antennacente
+Shift + F8                 adar-Barsca
+Down                       adar-Cursordow
+Left                       adar-Cursorlef
+Right                      adar-Cursorrigh
+Up                         adar-Cursoru
+Shift + Down               adar-cursorsrese
+Num 0                      adar-Designatetarge
+Shift + F3                 adar-gaindecreas
+Shift + F4                 adar-gainincreas
+Shift + F9                 adar-GMFO
+F10                        adar-GMpicture freez
+Shift + F10                adar-GMsnowplo
+Shift + F11                adar-HSDrange decreas
+Shift + F12                adar-HSDrange increas
+Pg Dn                      adar-locknext targe
+Del                        adar-lockprevious targe
+Shift + V                  adar-MaverickFO
+F3                         adar-rangedecreas
+F4                         adar-rangeincreas
+Ctrl + F3                  adar-RangeKnob Dow
+Ctrl + F4                  adar-RangeKnob U
+Num ,                      adar-returnto searc
+Shift + Alt + R            adar-RFInhibi
+V                          adar-SOIFO
+Ctrl + R                   adar-standb
+F11                        adar-submodes/azimut
+Alt + A                    kpit-RadarAltimeter OF
+Shift + A                  kpit-RadarAltimeter O
+Ctrl + A                   kpit-RadarAltimeter STDB
+Alt + Y                    adio-Channelcycl
+TAB                        adio-Men
+Q                          adio-AWACScomman
+W                          adio-Wingmancomman
+E                          adio-Elementcomman
+R                          adio-Flightcomman
+T                          adio-ATCmessag
+Y                          adio-Tankermessag
+Home                       WR-Lo
+Shift + Pg Up              WR-Nava
+Ins                        WR-Priorit
+Shift + Pg Dn              WR-Handof
+Shift + Ins                WR-Searc
+Pg Up                      WR-TargetSeparat
+Shift + Home               WR-Unknow
+Caps-Lock                  im-2xtime compressio
+-                          im-4Xtime acceleratio
+`                          im-Cha
+ESC                        im-Exi
+L                          im-cockpitsetup loa
+S                          im-cockpitsetup sav
+Shift + P                  im-Freez
+Shift + L                  im-labelsnea
+Ctrl + L                   im-labelsfa
+P                          im-Paus
+Print-Scr                  im-Screensho
+Alt + R                    im-Showscor
+Alt + S                    im-Soundof
+Alt + B                    im-Sounddow
+Alt + N                    im-Soundu
+Ctrl + Caps-Lock           im-TimeAccel De
+Shift + Caps-Lock          im-TimeAccel In
+Ctrl + Down                OTAS-TMSDow
+Ctrl + Left                OTAS-TMSLef
+Ctrl + Right               OTAS-TMSRigh
+Ctrl + Up                  OTAS-TMSU
+Alt + Left                 rim-RudderLef
+Alt + Right                rim-RudderRigh
+Shift + Left               rim-AileronLef
+Shift + Right              rim-AileronRigh
+Alt + Up                   rim-ElevatorU
+Alt + Down                 rim-ElevatorDow
+Shift + Up                 rim-Rese
+Shift + `                  iew-ActionCamer
+Shift + .                  iew-Aircraftnex
+Shift + ,                  iew-Aircraftpreviou
+Shift + 1                  iew-CockpitGhost MFD Zoo
+Shift + 2                  iew-CockpitWide/Norma
+L                          iew-Lookclose
+Shift + Ctrl + Alt + Num 7 iew-Cockpit10:0
+Shift + Ctrl + Alt + Num 0 iew-Cockpitlower lef
+Shift + Ctrl + Alt + Num 9 iew-Cockpit2:0
+Shift + Ctrl + Alt + Num 4 iew-Cockpit9:0
+Shift + Ctrl + Alt + Num 6 iew-Cockpit3:0
+Shift + Ctrl + Alt + Num 5 iew-Rese
+Shift + Ctrl + Alt + Num 1 iew-Cockpit8:0
+Shift + Ctrl + Alt + Num 3 iew-Cockpit4:0
+Shift + Ctrl + Alt + Num 2 iew-Cockpitlower righ
+Shift + Ctrl + Alt + Num / iew-CockpitHU
+Num 9                      iew-Glanceforwar
+Num 3                      iew-Glancebackwar
+Num 2                      iew-Rotatedow
+Num 4                      iew-Rotatelef
+Num 6                      iew-Rotaterigh
+Num 8                      iew-Rotateu
+2                          iew-2DCockpi
+9                          iew-Chas
+Ctrl + 8                   iew-Enemyaircraf
+Alt + 8                    iew-Enemyvehicl
+Shift + 9                  iew-Flyb
+5                          iew-ExtendedFO
+8                          iew-Friendl
+Shift + 8                  iew-Friendlyground uni
+1                          iew-HUDOnl
+7                          iew-Incomin
+0                          iew-Orbi
+4                          iew-Padloc
+Num +                      iew-Padlocknex
+Num -                      iew-Padlockpreviou
+Shift + Num -              iew-Padlockprev A
+Shift + Num +              iew-Padlocknext A
+Alt + Num -                iew-Padlockprev A
+Alt + Num +                iew-Padlocknext A
+Shift + 4                  iew-PadlockMode=A
+Alt + 4                    iew-PadlockMode=A
+Shift + 5                  iew-PadlockEFOV Mode=A
+Alt + 5                    iew-PadlockEFOV Mode=A
+Shift + 6                  iew-Targe
+6                          iew-Trackin
+3                          iew-Virtualcockpi
+Shift + 7                  iew-Weapo
+Alt + 7                    iew-Weapon'starge
+Shift + 3                  iew-ToggleSA ba
+Alt + `                    iew-SatelliteCamer
+Alt + 0                    iew-TowerCamer
+Num 1                      iew-Zoomi
+Num 7                      iew-Zoomou
+Ctrl + V                   kpit-VMSInhibi
+Enter                      pn-Ato A cycle hardpoint
+Backspace                  pn-Ato G cycle hardpoint
+Ctrl + U                   pn-MissileBore/Slav
+Shift + /                  pn-MissileHardpoints cycl
+Alt + U                    pn-MissileTD/B
+/                          pn-Firegu
+Space                      pn-Pickl
+Ctrl + ;                   pn-Bombinterval de
+Ctrl + '                   pn-Bombinterval in
+Shift + ;                  pn-Bombripple de
+Shift + '                  pn-Bombripple in
+Ctrl + ,                   pn-CBUburst altitude de
+Ctrl + .                   pn-CBUburst altitude in
+Shift + Ctrl + M           pn-MANReticl
+Alt + ;                    pn-Releasebombs singl
+Alt + '                    pn-Releasebombs in pair
+U                          pn-Sidewinder-Cage/Uncag
+Shift + U                  pn-SidewinderSpot/Sca
+Ctrl + Z                   ey-CombinationCtrl-
+Ctrl + X                   ey-CombinationCtrl-
+Alt + C                    ey-CombinationAlt-
+Shift + N                  OTAS-Cursorenabl
+Alt + V                    OTAS-PinkySwitc
+Alt + J                    kpit-GroundJett enabl
+Ctrl + Alt + F9            ights-ExtlPowe
+Ctrl + Alt + F10           ights-ExtlAnti Col
+Ctrl + Alt + F12           ights-ExtlStead
+Ctrl + Alt + F11           ights-ExtlWin
+Shift + Num 8              OTAS-DMSU
+Shift + Num 2              OTAS-DMSDow
+Shift + Num 4              OTAS-DMSLef
+Shift + Num 6              OTAS-DMSRigh
+Alt + F                    kpit-AVTRSwitc
+-                          kpit-AVTRSwitch bac
+Ctrl + Alt + F8            kpit-INSIn
+Ctrl + Alt + F7            kpit-INSDe
+Ctrl + T                   ights-Tes
+Ctrl + 5                   laps-LockLEF
+Ctrl + 4                   rim-APDis
+Shift + Alt + Home         rim-Manualnose u
+Shift + Alt + End          rim-Manualnose dow
+Shift + Alt + Ins          rim-Manualyaw Lef
+Shift + Alt + Pg Up        rim-Manualyaw righ
+Shift + Alt + Del          rim-Manualroll lef
+Shift + Alt + Pg Dn        rim-Manualroll righ
+Shift + Ctrl + [           ound-MissileVolume Dow
+Shift + Ctrl + ]           ound-MissileVolume u
+Shift + Alt + [            ound-ThreatVolume Dow
+Shift + Alt + ]            ound-ThreatVolume u
+Ctrl + Alt + [             omm-1Volume Dow
+Ctrl + Alt + ]             omm-1Volume u
+Shift + Ctrl + Alt + [     omm-2Volume Dow
+Shift + Ctrl + Alt + ]     omm-2Volume u
+Ctrl + /                   OTAS-FirstTrigger Deten
+Alt + /                    OTAS-SecondTrigger Deten
+Ctrl + F10                 laps-Setto Ful
+Ctrl + F9                  laps-Setto Nul
+Ctrl + F12                 laps-Increas
+Ctrl + F11                 laps-Decreas
+Alt + F10                  laps-SetLEF to Ful
+Alt + F9                   laps-SetLEF to Nul
+Alt + F12                  laps-IncreaseLE
+Alt + F11                  laps-DecreaseLE
+Ctrl + ]                   UD-Man.BombReticle U
+Ctrl + [                   UD-Man.BombReticle Dow
+Shift + D                  kpit-DeployDrag Chut
+Shift + Ctrl + C           kpit-Open/Closecanop
+-                          AC-I
+-                          AC-Ou
+-                          AC-CheckI
+-                          AC-CheckOu
+-                          AC-RequestTarge
+-                          AC-RequestBD
+-                          AC-Wilc
+-                          AC-Unabl
+-                          AC-Read
+-                          AC-RequestMar
+-                          AC-RequestLocatio
+-                          AC-RequestTACA
+-                          iew-MouseLook Hol
+-                          iew-MouseLook O
+-                          iew-MouseLook Of
+-                          iew-MouseLook Toggl
+-                          im-MouseSOI Hol
+Alt + [                    im-MouseSOI O
+Alt + ]                    im-MouseSOI Of
+-                          im-MouseSOI Toggl
+Alt + Q                    im-MouseButton
+Alt + W                    im-MouseButton
+J                          im-CalibrateJoystic
+K                          im-SetAB Deten
+T                          im-ResetTrackI
+-                          laps-LENormal/Exten
+-                          kpit-IFFMaste
+-                          WR-Powe
+-                          CP-SymWheel Dow
+-                          CP-SymWheel U
+-                          ights-InteriorLight
+Alt + H                    andingHelp Toggl
+-                          asyRadar-Next Enem
+Shift + E                  asyRadar-Previous Enem
+-                          asyRadar-Closest Enem
+Shift + R                  asyRadar-Boresight Enem
+-                          asyRadar-Next Friendl
+Shift + T                  asyRadar-Previous Friendl
+-                          asyRadar-Closest Friendl
+Shift + Y                  asyRadar-Boresight Friendl
+Alt + 1                    oice-TransmitCom
+Alt + 2                    oice-TransmitCom
+R                          im-Displayframe rat
+O                          im-AerodynamicDebu
+TAB                        adio-sendmessag
+TAB                        adio-nextmen
+TAB                        adio-nextmen
+Shift + TAB                adio-previousmen
+Shift + TAB                adio-previousmen
+Q                          adio-sendmessag
+Q                          adio-nextmen
+Q                          adio-nextmen
+Shift + Q                  adio-previousmen
+Shift + Q                  adio-previousmen
+W                          adio-sendmessag
+W                          adio-nextmen
+W                          adio-nextmen
+Shift + W                  adio-previousmen
+Shift + W                  adio-previousmen
+E                          adio-sendmessag
+E                          adio-nextmen
+E                          adio-nextmen
+Shift + E                  adio-previousmen
+Shift + E                  adio-previousmen
+R                          adio-sendmessag
+R                          adio-nextmen
+R                          adio-nextmen
+Shift + R                  adio-previousmen
+Shift + R                  adio-previousmen
+T                          adio-sendmessag
+Y                          adio-sendmessag
+-                          im-BSS=
+-                          im-BSS=
+-                          im-BSS=
+-                          im-BSS=
+-                          im-BSS=
+-                          im-BSS=1
+-                          im-BSS=1
+-                          im-BSS=1
+-                          im-BSS=1
+Alt + Pg Dn                im-objectscale dow
+Alt + Pg Up                im-objectscale u
+Shift + Space              im-cycleobject state
+0                          im-vehicleauto-scalin
+Ctrl + 1                   im-Setobject densit
+Ctrl + 2                   im-Setobject densit
+Ctrl + 3                   im-Setobject densit
+Ctrl + 4                   im-Setobject densit
+Ctrl + 5                   im-Setobject densit
+A                          im-alphablendin
+B                          im-Bilinearfilterin
+B                          im-Blackout/Redou
+C                          im-Moveto coordinate
+F                          im-Testingfunctio
+G                          im-Terrainshadin
+H                          im-Haz
+K                          im-Fistof Go
+L                          im-WorldLocatio
+Shift + Alt + .            im-Timeof da
+R                          im-Cloudroo
+Shift + Ctrl + T           im-texturedistance de
+Shift + Alt + T            im-texturedistance in
+W                          im-cloud
+Z                          im-invincibilit
+S                          im-StatusLin
