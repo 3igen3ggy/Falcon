@@ -1,0 +1,502 @@
+A                          Ckpit-Autopilot
+Ctrl + B                   Ckpit-Airbrakes close
+Shift + B                  Ckpit-Airbrakes open
+B                          Ckpit-Airbrakes toggle
+Shift + Alt + L            Ckpit-Aircraftlights
+Shift + Ctrl + F4          Ckpit-AirSource Inc
+Shift + Ctrl + F3          Ckpit-AirSource Dec
+Ctrl + 3                   Ckpit-APOverride
+Ctrl + 1                   Ckpit-APSwitch Left
+Ctrl + 2                   Ckpit-APSwitch Right
+Alt + ,                    Ckpit-ALOWaltitude dec
+Alt + .                    Ckpit-ALOWaltitude inc
+Alt + F1                   Ckpit-AuxComm Lft digit
+Alt + F2                   Ckpit-AuxComm Ctr digit
+Alt + F3                   Ckpit-AuxComm Rt digit
+Alt + F4                   Ckpit-AuxComm Band X/Y
+Alt + F5                   Ckpit-AuxComm UFC/Backup
+Alt + F6                   Ckpit-AuxComm AA/TR
+Alt + F7                   Ckpit-UHFNormal/Backup
+F                          Ckpit-AVTR
+Ctrl + G                   Ckpit-Bettygear horn
+Ctrl + C                   Ckpit-BettyMaster Caution
+Shift + C                  Ckpit-CATI/III
+Alt + Z                    Ckpit-Chaff/Flareauto/manual
+Z                          Ckpit-Dropflare
+X                          Ckpit-Dropchaff
+D                          Ckpit-Dogfightoverride mode
+J                          Ckpit-ECM
+Ctrl + E                   Ckpit-Eject
+Alt + E                    Ckpit-EPUstep
+Ctrl + F                   Ckpit-FACK
+'                          Ckpit-FCCsubmodes
+Shift + Ctrl + R           Ckpit-FuelDoor
+Shift + Ctrl + F7          Ckpit-FuelMaster Switch
+Alt + D                    Ckpit-DumpFuel
+Shift + Ctrl + F5          Ckpit-FuelPump Switch Dec
+Shift + Ctrl + F6          Ckpit-FuelPump Switch Inc
+Shift + Ctrl + F1          Ckpit-FuelSwitch Dec
+Shift + Ctrl + F2          Ckpit-FuelSwitch Inc
+Shift + Ctrl + L           Ckpit-Instrumentlights
+Ctrl + J                   Ckpit-Jettisonall
+Shift + J                  Ckpit-JFSswitch
+Alt + K                    Ckpit-Kneeboardpage
+G                          Ckpit-Landinggear
+Shift + G                  Ckpit-Landinggear Up
+Alt + G                    Ckpit-Landinggear Down
+Shift + Ctrl + Alt + G     Ckpit-AlternateLanding Gear
+Shift + Ctrl + G           Ckpit-ResetAlt Gear Extension
+Ctrl + Alt + L             Ckpit-Landinglight
+Alt + L                    Ckpit-LaserArm
+Shift + Ctrl + Alt + M     Ckpit-MasterArm cycle
+Shift + M                  Ckpit-MasterArm on
+Ctrl + M                   Ckpit-MasterArm safe
+Alt + M                    Ckpit-MasterArm sim
+O                          Ckpit-Manualpitch override
+M                          Ckpit-MRMoverride mode
+C                          Ckpit-MRM/DFoverride cancel
+N                          Ckpit-NVG
+Alt + P                    Ckpit-Parkingbrake
+Shift + Alt + F11          Ckpit-PowerDatalink
+Shift + Alt + F6           Ckpit-PowerFCC
+Shift + Alt + F5           Ckpit-PowerFCR
+Shift + Alt + F10          Ckpit-PowerGPS
+Shift + Alt + F2           Ckpit-PowerHUD
+Ctrl + Alt + F1            Ckpit-PowerMain Dec
+Ctrl + Alt + F2            Ckpit-PowerMain Inc
+Shift + Alt + F12          Ckpit-PowerMAP
+Shift + Alt + F8           Ckpit-PowerMFD
+Shift + Alt + F7           Ckpit-PowerSMS
+Shift + Alt + F1           Ckpit-PowerTISL
+Shift + Alt + F9           Ckpit-PowerUFC
+Shift + Alt + F3           Ckpit-PowerLeft Hpt
+Shift + Alt + F4           Ckpit-PowerRight Hpt
+Shift + Ctrl + E           Ckpit-SeatArm
+Ctrl + S                   Sim-Smoketoggle
+S                          Ckpit-Steerpointnext
+Shift + S                  Ckpit-Steerpointprevious
+Shift + Ctrl + A           Ckpit-TerrainFollowing Radar
+K                          Ckpit-Wheelbrakes
+Alt + I                    Ctrls-ThrottleIdle Detent
+Alt + -                    Ctrls-ThrottleIdle
+Shift + -                  Ctrls-Stepthrottle down
+-                          Ctrls-Throttleback
+=                          Ctrls-Throttleforward
+Shift + =                  Ctrls-Stepthrottle up
+Ctrl + -                   Ctrls-MinAfterburner
+Ctrl + =                   Ctrls-Fullafterburner
+Right                      Ctrls-Rollright
+Left                       Ctrls-Rollleft
+Down                       Ctrls-Noseup
+Up                         Ctrls-Nosedown
+,                          Ctrls-Rudderleft
+.                          Ctrls-Rudderright
+Ctrl + Alt + F3            EWS-ChaffPower
+Ctrl + Alt + F4            EWS-FlarePower
+Ctrl + Alt + F5            EWS-JammerPower
+Shift + Z                  EWS-PGMDec
+Shift + X                  EWS-PGMInc
+Shift + Q                  EWS-ProgramDec
+Shift + W                  EWS-ProgramInc
+Ctrl + Alt + F6            EWS-RWRPower
+Ctrl + Alt + V             HSI-Coursedecrement
+Ctrl + Alt + B             HSI-Courseincrement
+Ctrl + Alt + N             HSI-Headingdecrement
+Ctrl + Alt + M             HSI-Headingincrement
+I                          HSI-Modestoggle
+Ctrl + K                   Ckpit-Hook
+Shift + Ctrl + Alt + A     HUD-Altimetertype
+Shift + Ctrl + Alt + B     HUD-Brightness
+Shift + Ctrl + Alt + Z     HUD-BrightnessDown
+Shift + Ctrl + Alt + X     HUD-BrightnessUp
+Shift + Ctrl + Alt + C     HUD-Color
+H                          HUD-Scaletype
+Shift + Ctrl + Alt + D     HUD-DisplayDED
+Shift + H                  HUD-DisplayFLIR
+Shift + Ctrl + Alt + S     HUD-Headingscales
+Shift + Ctrl + Alt + P     HUD-Pitchladder
+Shift + Ctrl + Alt + V     HUD-Velocitycues
+Shift + Ctrl + Alt + W     HUD-Warningreset
+Shift + Num /              ICP-COM1
+Shift + Num *              ICP-COM2
+Shift + Num 7              ICP-IFF
+Shift + Num 9              ICP-LIST
+Shift + Num Enter          ICP-NAV
+Shift + Num 0              ICP-AA
+Shift + Num ,              ICP-AG
+Ctrl + End                 ICP-DCSDown
+Ctrl + Home                ICP-DCSUp
+Ctrl + Pg Up               ICP-DCSSeq
+Ctrl + Ins                 ICP-DCSReturn
+Ctrl + Del                 ICP-Reset
+Ctrl + Num 7               ICP-1ILS
+Ctrl + Num 8               ICP-2ALOW
+Ctrl + Num 9               ICP-3
+Ctrl + Num 4               ICP-4STPT
+Ctrl + Num 5               ICP-5CRUS
+Ctrl + Num 6               ICP-6TIME
+Ctrl + Num 1               ICP-7MARK
+Ctrl + Num 2               ICP-8FIX
+Ctrl + Num 3               ICP-9A-CAL
+Ctrl + Num 0               ICP-0M-SEL
+Ctrl + Num Enter           ICP-Enter
+Ctrl + D                   ICP-DLNK
+Ctrl + Num +               ICP-Next
+Ctrl + Num -               ICP-Previous
+Ctrl + Pg Dn               ICP-DriftC/O
+[                          MFD-Step1
+]                          MFD-Step2
+Shift + ]                  MFD-Step3
+Shift + [                  MFD-Step4
+Ctrl + Alt + F             LeftMFD-BrightnessDown
+Ctrl + Alt + G             LeftMFD-BrightnessUp
+Ctrl + Alt + 1             LeftMFD-OSB01
+Ctrl + Alt + 2             LeftMFD-OSB02
+Ctrl + Alt + 3             LeftMFD-OSB03
+Ctrl + Alt + 4             LeftMFD-OSB04
+Ctrl + Alt + 5             LeftMFD-OSB05
+Ctrl + Alt + 6             LeftMFD-OSB06
+Ctrl + Alt + 7             LeftMFD-OSB07
+Ctrl + Alt + 8             LeftMFD-OSB08
+Ctrl + Alt + 9             LeftMFD-OSB09
+Ctrl + Alt + 0             LeftMFD-OSB10
+Ctrl + Alt + Num 1         LeftMFD-OSB11
+Ctrl + Alt + Num 2         LeftMFD-OSB12
+Ctrl + Alt + Num 3         LeftMFD-OSB13
+Ctrl + Alt + Num 4         LeftMFD-OSB14
+Ctrl + Alt + Num 5         LeftMFD-OSB15
+Ctrl + Alt + Num 6         LeftMFD-OSB16
+Ctrl + Alt + Num 7         LeftMFD-OSB17
+Ctrl + Alt + Num 8         LeftMFD-OSB18
+Ctrl + Alt + Num 9         LeftMFD-OSB19
+Ctrl + Alt + Num 0         LeftMFD-OSB20
+Shift + Alt + F            RightMFD-BrightnessDown
+Shift + Alt + G            RightMFD-BrightnessUp
+Shift + Alt + 1            RightMFD-OSB01
+Shift + Alt + 2            RightMFD-OSB02
+Shift + Alt + 3            RightMFD-OSB03
+Shift + Alt + 4            RightMFD-OSB04
+Shift + Alt + 5            RightMFD-OSB05
+Shift + Alt + 6            RightMFD-OSB06
+Shift + Alt + 7            RightMFD-OSB07
+Shift + Alt + 8            RightMFD-OSB08
+Shift + Alt + 9            RightMFD-OSB09
+Shift + Alt + 0            RightMFD-OSB10
+Shift + Alt + Num 1        RightMFD-OSB11
+Shift + Alt + Num 2        RightMFD-OSB12
+Shift + Alt + Num 3        RightMFD-OSB13
+Shift + Alt + Num 4        RightMFD-OSB14
+Shift + Alt + Num 5        RightMFD-OSB15
+Shift + Alt + Num 6        RightMFD-OSB16
+Shift + Alt + Num 7        RightMFD-OSB17
+Shift + Alt + Num 8        RightMFD-OSB18
+Shift + Alt + Num 9        RightMFD-OSB19
+Shift + Alt + Num 0        RightMFD-OSB20
+Ctrl + F6                  Radar-ACM30x20
+Ctrl + F5                  Radar-ACMboresight
+Ctrl + F7                  Radar-ACMslewable
+Ctrl + F8                  Radar-ACMvertical
+F1                         Radar-Airto Air
+F2                         Radar-Airto Ground
+F5                         Radar-Antennatilt down
+F7                         Radar-Antennatilt up
+F6                         Radar-Antennacenter
+Shift + F8                 Radar-Barscan
+Alt + Down                 Radar-Cursordown
+Alt + Left                 Radar-Cursorleft
+Alt + Right                Radar-Cursorright
+Alt + Up                   Radar-Cursorup
+Shift + Down               Radar-cursorsreset
+Num 0                      Radar-Designatetarget
+Shift + F3                 Radar-gaindecrease
+Shift + F4                 Radar-gainincrease
+Shift + F9                 Radar-GMFOV
+F10                        Radar-GMpicture freeze
+Shift + F10                Radar-GMsnowplow
+Shift + F11                Radar-HSDrange decrease
+Shift + F12                Radar-HSDrange increase
+Pg Dn                      Radar-locknext target
+Del                        Radar-lockprevious target
+Shift + V                  Radar-MaverickFOV
+F3                         Radar-rangedecrease
+F4                         Radar-rangeincrease
+Ctrl + F3                  Radar-RangeKnob Down
+Ctrl + F4                  Radar-RangeKnob Up
+Num ,                      Radar-returnto search
+Shift + Alt + R            Radar-RFInhibit
+V                          Radar-SOIFOV
+Ctrl + R                   Radar-standby
+F11                        Radar-submodes/azimuth
+Alt + A                    Ckpit-RadarAltimeter OFF
+Shift + A                  Ckpit-RadarAltimeter ON
+Ctrl + A                   Ckpit-RadarAltimeter STDBY
+Alt + Y                    Radio-Channelcycle
+TAB                        Radio-Menu
+Q                          Radio-AWACScommand
+W                          Radio-Wingmancommand
+E                          Radio-Elementcommand
+R                          Radio-Flightcommand
+T                          Radio-ATCmessage
+Y                          Radio-Tankermessage
+Home                       RWR-Low
+Shift + Pg Up              RWR-Naval
+Ins                        RWR-Priority
+Shift + Pg Dn              RWR-Handoff
+Shift + Ins                RWR-Search
+Pg Up                      RWR-TargetSeparate
+Shift + Home               RWR-Unknown
+Caps-Lock                  Sim-2xtime compression
+-                          Sim-4Xtime acceleration
+`                          Sim-Chat
+ESC                        Sim-Exit
+L                          Sim-cockpitsetup load
+S                          Sim-cockpitsetup save
+Shift + P                  Sim-Freeze
+Shift + L                  Sim-labelsnear
+Ctrl + L                   Sim-labelsfar
+P                          Sim-Pause
+Print-Scr                  Sim-Screenshot
+Alt + R                    Sim-Showscore
+Alt + S                    Sim-Soundoff
+Alt + B                    Sim-Sounddown
+Alt + N                    Sim-Soundup
+Ctrl + Caps-Lock           Sim-TimeAccel Dec
+Shift + Caps-Lock          Sim-TimeAccel Inc
+Ctrl + Down                HOTAS-TMSDown
+Ctrl + Left                HOTAS-TMSLeft
+Ctrl + Right               HOTAS-TMSRight
+Ctrl + Up                  HOTAS-TMSUp
+Shift + Ctrl + Left        Trim-RudderLeft
+Shift + Ctrl + Right       Trim-RudderRight
+Shift + Left               Trim-AileronLeft
+Shift + Right              Trim-AileronRight
+Shift + Ctrl + Up          Trim-ElevatorUp
+Shift + Ctrl + Down        Trim-ElevatorDown
+Shift + Up                 Trim-Reset
+Shift + `                  View-ActionCamera
+Shift + .                  View-Aircraftnext
+Shift + ,                  View-Aircraftprevious
+Shift + 1                  View-CockpitGhost MFD Zoom
+Shift + 2                  View-CockpitWide/Normal
+L                          View-Lookcloser
+Shift + Ctrl + Alt + Num 7 View-Cockpit10:00
+Shift + Ctrl + Alt + Num 0 View-Cockpitlower left
+Shift + Ctrl + Alt + Num 9 View-Cockpit2:00
+Shift + Ctrl + Alt + Num 4 View-Cockpit9:00
+Shift + Ctrl + Alt + Num 6 View-Cockpit3:00
+Shift + Ctrl + Alt + Num 5 View-Reset
+Shift + Ctrl + Alt + Num 1 View-Cockpit8:00
+Shift + Ctrl + Alt + Num 3 View-Cockpit4:00
+Shift + Ctrl + Alt + Num 2 View-Cockpitlower right
+Shift + Ctrl + Alt + Num / View-CockpitHUD
+Num 9                      View-Glanceforward
+Num 3                      View-Glancebackward
+Num 2                      View-Rotatedown
+Num 4                      View-Rotateleft
+Num 6                      View-Rotateright
+Num 8                      View-Rotateup
+2                          View-2DCockpit
+9                          View-Chase
+Ctrl + 8                   View-Enemyaircraft
+Alt + 8                    View-Enemyvehicle
+Shift + 9                  View-Flyby
+5                          View-ExtendedFOV
+8                          View-Friendly
+Shift + 8                  View-Friendlyground unit
+1                          View-HUDOnly
+7                          View-Incoming
+0                          View-Orbit
+4                          View-Padlock
+Num +                      View-Padlocknext
+Num -                      View-Padlockprevious
+Shift + Num -              View-Padlockprev AA
+Shift + Num +              View-Padlocknext AA
+Alt + Num -                View-Padlockprev AG
+Alt + Num +                View-Padlocknext AG
+Shift + 4                  View-PadlockMode=AA
+Alt + 4                    View-PadlockMode=AG
+Shift + 5                  View-PadlockEFOV Mode=AA
+Alt + 5                    View-PadlockEFOV Mode=AG
+Shift + 6                  View-Target
+6                          View-Tracking
+3                          View-Virtualcockpit
+Shift + 7                  View-Weapon
+Alt + 7                    View-Weapon'starget
+Shift + 3                  View-ToggleSA bar
+Alt + `                    View-SatelliteCamera
+Alt + 0                    View-TowerCamera
+Num 1                      View-Zoomin
+Num 7                      View-Zoomout
+Ctrl + V                   Ckpit-VMSInhibit
+Enter                      Wpn-Ato A cycle hardpoints
+Backspace                  Wpn-Ato G cycle hardpoints
+Ctrl + U                   Wpn-MissileBore/Slave
+Shift + /                  Wpn-MissileHardpoints cycle
+Alt + U                    Wpn-MissileTD/BP
+/                          Wpn-Firegun
+Space                      Wpn-Pickle
+Ctrl + ;                   Wpn-Bombinterval dec
+Ctrl + '                   Wpn-Bombinterval inc
+Shift + ;                  Wpn-Bombripple dec
+Shift + '                  Wpn-Bombripple inc
+Ctrl + ,                   Wpn-CBUburst altitude dec
+Ctrl + .                   Wpn-CBUburst altitude inc
+Shift + Ctrl + M           Wpn-MANReticle
+Alt + ;                    Wpn-Releasebombs singly
+Alt + '                    Wpn-Releasebombs in pairs
+U                          Wpn-Sidewinder-Cage/Uncage
+Shift + U                  Wpn-SidewinderSpot/Scan
+Ctrl + Z                   Key-CombinationCtrl-Z
+Ctrl + X                   Key-CombinationCtrl-X
+Alt + C                    Key-CombinationAlt-C
+Shift + N                  HOTAS-Cursorenable
+Alt + V                    HOTAS-PinkySwitch
+Alt + J                    Ckpit-GroundJett enable
+Ctrl + Alt + F9            Lights-ExtlPower
+Ctrl + Alt + F10           Lights-ExtlAnti Coll
+Ctrl + Alt + F12           Lights-ExtlSteady
+Ctrl + Alt + F11           Lights-ExtlWing
+Shift + Num 8              HOTAS-DMSUp
+Shift + Num 2              HOTAS-DMSDown
+Shift + Num 4              HOTAS-DMSLeft
+Shift + Num 6              HOTAS-DMSRight
+Alt + F                    Ckpit-AVTRSwitch
+-                          Ckpit-AVTRSwitch back
+Ctrl + Alt + F8            Ckpit-INSInc
+Ctrl + Alt + F7            Ckpit-INSDec
+Ctrl + T                   Lights-Test
+Ctrl + 5                   Flaps-LockLEFs
+Ctrl + 4                   Trim-APDisc
+Shift + Alt + Home         Trim-Manualnose up
+Shift + Alt + End          Trim-Manualnose down
+Shift + Alt + Ins          Trim-Manualyaw Left
+Shift + Alt + Pg Up        Trim-Manualyaw right
+Shift + Alt + Del          Trim-Manualroll left
+Shift + Alt + Pg Dn        Trim-Manualroll right
+Shift + Ctrl + [           Sound-MissileVolume Down
+Shift + Ctrl + ]           Sound-MissileVolume up
+Shift + Alt + [            Sound-ThreatVolume Down
+Shift + Alt + ]            Sound-ThreatVolume up
+Ctrl + Alt + [             Comm-1Volume Down
+Ctrl + Alt + ]             Comm-1Volume up
+Shift + Ctrl + Alt + [     Comm-2Volume Down
+Shift + Ctrl + Alt + ]     Comm-2Volume up
+Ctrl + /                   HOTAS-FirstTrigger Detent
+Alt + /                    HOTAS-SecondTrigger Detent
+Ctrl + F10                 Flaps-Setto Full
+Ctrl + F9                  Flaps-Setto Null
+Ctrl + F12                 Flaps-Increase
+Ctrl + F11                 Flaps-Decrease
+Alt + F10                  Flaps-SetLEF to Full
+Alt + F9                   Flaps-SetLEF to Null
+Alt + F12                  Flaps-IncreaseLEF
+Alt + F11                  Flaps-DecreaseLEF
+Ctrl + ]                   HUD-Man.BombReticle Up
+Ctrl + [                   HUD-Man.BombReticle Down
+Shift + D                  Ckpit-DeployDrag Chute
+Shift + Ctrl + C           Ckpit-Open/Closecanopy
+-                          FAC-In
+-                          FAC-Out
+-                          FAC-CheckIn
+-                          FAC-CheckOut
+-                          FAC-RequestTarget
+-                          FAC-RequestBDA
+-                          FAC-Wilco
+-                          FAC-Unable
+-                          FAC-Ready
+-                          FAC-RequestMark
+-                          FAC-RequestLocation
+-                          FAC-RequestTACAN
+-                          View-MouseLook Hold
+-                          View-MouseLook On
+-                          View-MouseLook Off
+-                          View-MouseLook Toggle
+-                          Sim-MouseSOI Hold
+Alt + [                    Sim-MouseSOI On
+Alt + ]                    Sim-MouseSOI Off
+-                          Sim-MouseSOI Toggle
+Alt + Q                    Sim-MouseButton 1
+Alt + W                    Sim-MouseButton 2
+J                          Sim-CalibrateJoystick
+K                          Sim-SetAB Detent
+T                          Sim-ResetTrackIR
+-                          Flaps-LENormal/Extend
+-                          Ckpit-IFFMaster
+-                          RWR-Power
+-                          ICP-SymWheel Down
+-                          ICP-SymWheel Up
+-                          Lights-InteriorLights
+Alt + H                    LandingHelp Toggle
+-                          EasyRadar-Next Enemy
+Shift + E                  EasyRadar-Previous Enemy
+-                          EasyRadar-Closest Enemy
+Shift + R                  EasyRadar-Boresight Enemy
+-                          EasyRadar-Next Friendly
+Shift + T                  EasyRadar-Previous Friendly
+-                          EasyRadar-Closest Friendly
+Shift + Y                  EasyRadar-Boresight Friendly
+Alt + 1                    Voice-TransmitCom1
+Alt + 2                    Voice-TransmitCom2
+R                          Sim-Displayframe rate
+O                          Sim-AerodynamicDebug
+TAB                        Radio-sendmessage
+TAB                        Radio-nextmenu
+TAB                        Radio-nextmenu
+Shift + TAB                Radio-previousmenu
+Shift + TAB                Radio-previousmenu
+Q                          Radio-sendmessage
+Q                          Radio-nextmenu
+Q                          Radio-nextmenu
+Shift + Q                  Radio-previousmenu
+Shift + Q                  Radio-previousmenu
+W                          Radio-sendmessage
+W                          Radio-nextmenu
+W                          Radio-nextmenu
+Shift + W                  Radio-previousmenu
+Shift + W                  Radio-previousmenu
+E                          Radio-sendmessage
+E                          Radio-nextmenu
+E                          Radio-nextmenu
+Shift + E                  Radio-previousmenu
+Shift + E                  Radio-previousmenu
+R                          Radio-sendmessage
+R                          Radio-nextmenu
+R                          Radio-nextmenu
+Shift + R                  Radio-previousmenu
+Shift + R                  Radio-previousmenu
+T                          Radio-sendmessage
+Y                          Radio-sendmessage
+-                          Sim-BSS=1
+-                          Sim-BSS=3
+-                          Sim-BSS=5
+-                          Sim-BSS=7
+-                          Sim-BSS=9
+-                          Sim-BSS=11
+-                          Sim-BSS=13
+-                          Sim-BSS=15
+-                          Sim-BSS=17
+Alt + Pg Dn                Sim-objectscale down
+Alt + Pg Up                Sim-objectscale up
+Shift + Space              Sim-cycleobject states
+0                          Sim-vehicleauto-scaling
+Ctrl + 1                   Sim-Setobject density
+Ctrl + 2                   Sim-Setobject density
+Ctrl + 3                   Sim-Setobject density
+Ctrl + 4                   Sim-Setobject density
+Ctrl + 5                   Sim-Setobject density
+A                          Sim-alphablending
+B                          Sim-Bilinearfiltering
+B                          Sim-Blackout/Redout
+C                          Sim-Moveto coordinates
+F                          Sim-Testingfunction
+G                          Sim-Terrainshading
+H                          Sim-Haze
+K                          Sim-Fistof God
+L                          Sim-WorldLocation
+Shift + Alt + .            Sim-Timeof day
+R                          Sim-Cloudroof
+Shift + Ctrl + T           Sim-texturedistance dec
+Shift + Alt + T            Sim-texturedistance inc
+W                          Sim-clouds
+Z                          Sim-invincibility
+S                          Sim-StatusLine
