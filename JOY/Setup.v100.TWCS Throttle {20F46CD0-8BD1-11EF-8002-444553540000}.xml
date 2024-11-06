@@ -77,11 +77,11 @@
         </DirAssgn>
         <DirAssgn>
           <Callback>
-            <string>SimDoNothing</string>
+            <string>OTWViewUpRight</string>
             <string>SimDoNothing</string>
           </Callback>
           <SoundID>
-            <int>0</int>
+            <int>-1</int>
             <int>0</int>
           </SoundID>
         </DirAssgn>
@@ -97,11 +97,11 @@
         </DirAssgn>
         <DirAssgn>
           <Callback>
-            <string>SimDoNothing</string>
+            <string>OTWViewDownRight</string>
             <string>SimDoNothing</string>
           </Callback>
           <SoundID>
-            <int>0</int>
+            <int>-1</int>
             <int>0</int>
           </SoundID>
         </DirAssgn>
@@ -117,31 +117,31 @@
         </DirAssgn>
         <DirAssgn>
           <Callback>
-            <string>SimDoNothing</string>
+            <string>OTWViewDownLeft</string>
             <string>SimDoNothing</string>
           </Callback>
           <SoundID>
-            <int>0</int>
+            <int>-1</int>
             <int>0</int>
           </SoundID>
         </DirAssgn>
         <DirAssgn>
           <Callback>
-            <string>SimDoNothing</string>
+            <string>OTWViewLeft</string>
             <string>SimDoNothing</string>
           </Callback>
           <SoundID>
-            <int>0</int>
+            <int>-1</int>
             <int>0</int>
           </SoundID>
         </DirAssgn>
         <DirAssgn>
           <Callback>
-            <string>SimDoNothing</string>
+            <string>OTWViewUpLeft</string>
             <string>SimDoNothing</string>
           </Callback>
           <SoundID>
-            <int>0</int>
+            <int>-1</int>
             <int>0</int>
           </SoundID>
         </DirAssgn>
@@ -3490,11 +3490,11 @@
           </DirAssgn>
           <DirAssgn>
             <Callback>
-              <string>SimDoNothing</string>
+              <string>OTWViewUpRight</string>
               <string>SimDoNothing</string>
             </Callback>
             <SoundID>
-              <int>0</int>
+              <int>-1</int>
               <int>0</int>
             </SoundID>
           </DirAssgn>
@@ -3510,11 +3510,11 @@
           </DirAssgn>
           <DirAssgn>
             <Callback>
-              <string>SimDoNothing</string>
+              <string>OTWViewDownRight</string>
               <string>SimDoNothing</string>
             </Callback>
             <SoundID>
-              <int>0</int>
+              <int>-1</int>
               <int>0</int>
             </SoundID>
           </DirAssgn>
@@ -3530,31 +3530,31 @@
           </DirAssgn>
           <DirAssgn>
             <Callback>
-              <string>SimDoNothing</string>
+              <string>OTWViewDownLeft</string>
               <string>SimDoNothing</string>
             </Callback>
             <SoundID>
-              <int>0</int>
+              <int>-1</int>
               <int>0</int>
             </SoundID>
           </DirAssgn>
           <DirAssgn>
             <Callback>
-              <string>SimDoNothing</string>
+              <string>OTWViewLeft</string>
               <string>SimDoNothing</string>
             </Callback>
             <SoundID>
-              <int>0</int>
+              <int>-1</int>
               <int>0</int>
             </SoundID>
           </DirAssgn>
           <DirAssgn>
             <Callback>
-              <string>SimDoNothing</string>
+              <string>OTWViewUpLeft</string>
               <string>SimDoNothing</string>
             </Callback>
             <SoundID>
-              <int>0</int>
+              <int>-1</int>
               <int>0</int>
             </SoundID>
           </DirAssgn>
