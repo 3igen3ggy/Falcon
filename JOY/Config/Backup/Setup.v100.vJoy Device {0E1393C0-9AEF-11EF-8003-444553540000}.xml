@@ -956,9 +956,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimDoNothing</Callback>
+          <Callback>OTWSelectSatelliteMode</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>0</SoundID>
+          <SoundID>-1</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1004,9 +1004,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimDoNothing</Callback>
+          <Callback>OTWNextCustom3dPitView</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>0</SoundID>
+          <SoundID>-1</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -1172,30 +1172,6 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>OTWSelectSatelliteMode</Callback>
-          <Invoke>Default</Invoke>
-          <SoundID>-1</SoundID>
-        </Assgn>
-        <Assgn>
-          <Callback>SimDoNothing</Callback>
-          <Invoke>Default</Invoke>
-          <SoundID>0</SoundID>
-        </Assgn>
-        <Assgn>
-          <Callback>SimDoNothing</Callback>
-          <Invoke>Default</Invoke>
-          <SoundID>0</SoundID>
-        </Assgn>
-        <Assgn>
-          <Callback>SimDoNothing</Callback>
-          <Invoke>Default</Invoke>
-          <SoundID>0</SoundID>
-        </Assgn>
-      </assign>
-    </DxAssgn>
-    <DxAssgn>
-      <assign>
-        <Assgn>
           <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
           <SoundID>0</SoundID>
@@ -1220,9 +1196,33 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>OTWNextCustom3dPitView</Callback>
+          <Callback>SimDoNothing</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>-1</SoundID>
+          <SoundID>0</SoundID>
+        </Assgn>
+        <Assgn>
+          <Callback>SimDoNothing</Callback>
+          <Invoke>Default</Invoke>
+          <SoundID>0</SoundID>
+        </Assgn>
+        <Assgn>
+          <Callback>SimDoNothing</Callback>
+          <Invoke>Default</Invoke>
+          <SoundID>0</SoundID>
+        </Assgn>
+        <Assgn>
+          <Callback>SimDoNothing</Callback>
+          <Invoke>Default</Invoke>
+          <SoundID>0</SoundID>
+        </Assgn>
+      </assign>
+    </DxAssgn>
+    <DxAssgn>
+      <assign>
+        <Assgn>
+          <Callback>SimDoNothing</Callback>
+          <Invoke>Default</Invoke>
+          <SoundID>0</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -4369,9 +4369,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimDoNothing</Callback>
+            <Callback>OTWSelectSatelliteMode</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
+            <SoundID>-1</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4417,9 +4417,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimDoNothing</Callback>
+            <Callback>OTWNextCustom3dPitView</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
+            <SoundID>-1</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
@@ -4585,30 +4585,6 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>OTWSelectSatelliteMode</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-          <Assgn>
-            <Callback>SimDoNothing</Callback>
-            <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
-          </Assgn>
-        </assign>
-      </DxAssgn>
-      <DxAssgn>
-        <assign>
-          <Assgn>
             <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
             <SoundID>0</SoundID>
@@ -4633,9 +4609,33 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>OTWNextCustom3dPitView</Callback>
+            <Callback>SimDoNothing</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>-1</SoundID>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
+          </Assgn>
+        </assign>
+      </DxAssgn>
+      <DxAssgn>
+        <assign>
+          <Assgn>
+            <Callback>SimDoNothing</Callback>
+            <Invoke>Default</Invoke>
+            <SoundID>0</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>
