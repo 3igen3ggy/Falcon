@@ -1,0 +1,282 @@
+#############################################
+##### DEFAULT DEVICE AXIS MAPPING FILE ###### 
+############ UPDATED AUGUST 2018 ############
+############################################# 
+# Syntax:
+#   '#' - this marks a comment line (duh). These lines are not evaluated by this parser.
+#   'GUID = {...}' - this line marks the beginning of a new device configuration
+#
+#   Now you may map physical axis to in-game axis. The format is 'in_game=physical, where
+#   'physical' may be 'X Y Z RX RY RZ SLIDER0 SLIDER1' and in_game may be
+#   'AXIS_PITCH, AXIS_ROLL, AXIS_YAW, AXIS_THROTTLE, AXIS_THROTTLE2, an so on (read the complete list below).
+#   You can only map one in-game axis to one physical axis
+#   A typical line my look like 'RZ=AXIS_THROTTLE'
+#
+#   The complete list of AXIS is:
+# AXIS_PITCH
+# AXIS_ROLL
+# AXIS_YAW
+# AXIS_THROTTLE
+# AXIS_THROTTLE2
+# AXIS_TRIM_PITCH
+# AXIS_TRIM_YAW
+# AXIS_TRIM_ROLL
+# AXIS_BRAKE_LEFT	    (If is only asigned the Brake Left axis, and there is no Brake Right one, both brakes will work togheter)
+# AXIS_BRAKE_RIGHT
+# AXIS_FOV
+# AXIS_ANT_ELEV
+# AXIS_CURSOR_X
+# AXIS_CURSOR_Y
+# AXIS_RANGE_KNOB
+# AXIS_COMM_VOLUME_1
+# AXIS_COMM_VOLUME_2
+# AXIS_MSL_VOLUME
+# AXIS_THREAT_VOLUME
+# AXIS_HUD_BRIGHTNESS
+# AXIS_RET_DEPR
+# AXIS_ZOOM
+# AXIS_INTERCOM_VOLUME
+# AXIS_HMS_BRT
+# AXIS_AIVSIVC_VOLUME
+# AXIS_HUD_FLIR_BRIGHTNESS
+# AXIS_HSI_COURSE            (input will be translated to a 0...359 range. It is in the responsibility of the input device to implement the "rollover" from 359 to 0, i.e. the "MAX to MIN" value functionality)
+# AXIS_HSI_HEADING           (input will be translated to a 0...359 range. It is in the responsibility of the input device to implement the "rollover" from 359 to 0, i.e. the "MAX to MIN" value functionality)
+# AXIS_ALTIMETER
+#############################################
+################## DEVICES ################## 
+#############################################
+
+# Saitek X36 USB
+GUID = {053F06A3-0000-0000-0000-504944564944}
+AXIS_PITCH = Y
+AXIS_ROLL = X
+AXIS_YAW = RZ
+AXIS_THROTTLE = SLIDER0
+
+# Saitek X45 Flight Controller USB
+GUID = {053C06A3-0000-0000-0000-504944564944}
+AXIS_PITCH = Y
+AXIS_ROLL = X
+AXIS_YAW = RZ
+AXIS_THROTTLE = SLIDER0
+AXIS_ANT_ELEV = SLIDER1
+AXIS_RANGE_KNOB = RX
+
+# Saitek X52 Flight Stick (USB)
+GUID = {025506A3-0000-0000-0000-504944564944}
+AXIS_PITCH = Y
+AXIS_ROLL = X
+AXIS_THROTTLE = Z
+AXIS_ANT_ELEV = RX
+AXIS_RANGE_KNOB = RY
+AXIS_YAW = RZ
+
+# Saitek X52 Flight Controller
+GUID = {075C06A3-0000-0000-0000-504944564944}
+AXIS_PITCH = Y
+AXIS_ROLL = X
+AXIS_THROTTLE = Z
+AXIS_ANT_ELEV = RX
+AXIS_RANGE_KNOB = RY
+AXIS_YAW = RZ
+
+# Saitek X52 Pro Flight Controller
+GUID = {076206A3-0000-0000-0000-504944564944}
+AXIS_PITCH = Y
+AXIS_ROLL = X
+AXIS_THROTTLE = Z
+AXIS_ANT_ELEV = RX
+AXIS_RANGE_KNOB = RY
+AXIS_YAW = RZ
+
+# Saitek Pro Flight X-56 Rhino Stick
+GUID = {22210738-0000-0000-0000-504944564944}
+AXIS_PITCH = Y
+AXIS_ROLL = X
+AXIS_YAW = RZ
+
+# Saitek Pro Flight X-56 Rhino Throttle
+GUID = {A2210738-0000-0000-0000-504944564944}
+AXIS_THROTTLE2 = Y
+AXIS_THROTTLE = X
+AXIS_CURSOR_X = RX
+AXIS_CURSOR_Y = RY
+AXIS_RANGE_KNOB = Z
+AXIS_ANT_ELEV = RZ
+AXIS_TRIM_YAW = SLIDER0
+AXIS_BRAKE_LEFT = SLIDER1
+
+# Saitek X65F Pro Flight Control System
+GUID = {0B6A06A3-0000-0000-0000-504944564944}
+AXIS_PITCH = Y
+AXIS_ROLL = X
+AXIS_YAW = RZ
+AXIS_THROTTLE2 = SLIDER0
+AXIS_THROTTLE = Z
+AXIS_ANT_ELEV = RY
+AXIS_RANGE_KNOB = RX
+
+# Saitek Cyborg Evo
+GUID = {046406A3-0000-0000-0000-504944564944}
+AXIS_PITCH = Y
+AXIS_ROLL = X
+AXIS_YAW = RZ
+AXIS_THROTTLE = Z
+
+# Saitek Pro Flight Rudder Pedals
+GUID = {076306A3-0000-0000-0000-504944564944}
+AXIS_YAW = Z
+AXIS_BRAKE_LEFT = X
+AXIS_BRAKE_RIGHT = Y
+
+
+# Logitech WingMan Force 3d
+GUID = {C283046D-0000-0000-0000-504944564944}
+AXIS_PITCH = Y
+AXIS_ROLL = X
+AXIS_YAW = RZ
+AXIS_THROTTLE = SLIDER0
+
+# Logitech Extreme 3D Pro USB
+GUID = {C215046D-0000-0000-0000-504944564944}
+AXIS_PITCH = Y
+AXIS_ROLL = X
+AXIS_YAW = RZ
+AXIS_THROTTLE = SLIDER0
+
+# Logitech G940 Throttle
+GUID = {C2A9046D-0000-0000-0000-504944564944}
+AXIS_THROTTLE2 = X
+AXIS_THROTTLE = Y
+AXIS_ANT_ELEV = Z
+AXIS_RANGE_KNOB = RX
+
+# Logitech G940 Joystick
+GUID = {C2A8046D-0000-0000-0000-504944564944}
+AXIS_PITCH = Y
+AXIS_ROLL = X
+AXIS_CURSOR_X = SLIDER1
+AXIS_CURSOR_Y = SLIDER0
+AXIS_TRIM_PITCH = RZ
+AXIS_TRIM_ROLL = RX
+AXIS_TRIM_YAW = RY
+
+# Logitech G940 Pedals
+GUID = {C287046D-0000-0000-0000-504944564944}
+AXIS_PITCH = 
+AXIS_ROLL = 
+AXIS_BRAKE_LEFT = X
+AXIS_BRAKE_RIGHT = Y
+AXIS_YAW = Z
+
+
+# StickWorks SWF22
+GUID = {FF1009F3-0000-0000-0000-504944564944}
+AXIS_PITCH = Y
+AXIS_ROLL = X
+AXIS_YAW = RZ
+AXIS_THROTTLE = SLIDER0
+
+
+# Thrustmaster HOTAS Cougar
+GUID = {0400044F-0000-0000-0000-504944564944}
+AXIS_PITCH = Y
+AXIS_ROLL = X
+AXIS_THROTTLE = Z
+AXIS_ANT_ELEV = RX
+AXIS_RANGE_KNOB = RZ
+AXIS_CURSOR_X = SLIDER1
+AXIS_CURSOR_Y = SLIDER0
+
+# Joystick - Thrustmaster HOTAS Warthog
+GUID = {0402044F-0000-0000-0000-504944564944}
+AXIS_PITCH = Y
+AXIS_ROLL = X
+
+# Throttle - Thrustmaster HOTAS Warthog
+GUID = {0404044F-0000-0000-0000-504944564944}
+AXIS_THROTTLE = RZ
+AXIS_THROTTLE2 = Z
+AXIS_ANT_ELEV = SLIDER0
+AXIS_CURSOR_X = X
+AXIS_CURSOR_Y = Y
+
+# Thrustmaster Combined - HOTAS Warthog
+GUID = {FFFF044F-0000-0000-0000-504944564944}
+AXIS_PITCH = Y
+AXIS_ROLL = X
+AXIS_THROTTLE = RZ
+AXIS_THROTTLE2 = Z
+AXIS_ANT_ELEV = SLIDER1
+AXIS_RANGE_KNOB = SLIDER0
+AXIS_CURSOR_X = RX
+AXIS_CURSOR_Y = RY
+
+# Thrustmaster Top Gun® AfterBurner (USB)
+GUID = {B101044F-0000-0000-0000-504944564944}
+AXIS_PITCH = Y
+AXIS_ROLL = X
+AXIS_YAW = RZ
+AXIS_THROTTLE = SLIDER0
+
+# T.Flight Hotas X
+GUID = {B108044F-0000-0000-0000-504944564944}
+AXIS_PITCH = Y
+AXIS_ROLL = X
+AXIS_YAW = RZ
+AXIS_THROTTLE = SLIDER0
+
+# Thrustmaster T.16000M
+GUID = {B10A044F-0000-0000-0000-504944564944}
+AXIS_PITCH = Y
+AXIS_ROLL = X
+AXIS_YAW = RZ
+AXIS_THROTTLE = SLIDER0
+
+# Thrustmaster F16 MFD 1
+GUID = {B351044F-0000-0000-0000-504944564944}
+
+# Thrustmaster F16 MFD 2
+GUID = {B352044F-0000-0000-0000-504944564944}
+
+
+# Controller (XBOX 360 For Windows)
+GUID = {028E045E-0000-0000-0000-504944564944}
+AXIS_PITCH = Y
+AXIS_ROLL = X
+AXIS_YAW = RX
+AXIS_THROTTLE = RY
+
+
+# PLAYSTATION(R)3 Controller
+GUID = {0268054C-0000-0000-0000-504944564944}
+AXIS_PITCH = Y
+AXIS_ROLL = X
+AXIS_YAW = Z
+AXIS_THROTTLE = RZ
+
+
+# Dual Trigger 3-in-1
+GUID = {B323044F-0000-0000-0000-504944564944}
+AXIS_PITCH = Y
+AXIS_ROLL = X
+AXIS_THROTTLE = RY
+AXIS_BRAKE_LEFT = RX
+AXIS_CURSOR_X = Z
+AXIS_CURSOR_Y = RZ
+
+
+# SideWinder Precision 2 Joystick
+GUID = {0038045E-0000-0000-0000-504944564944}
+AXIS_PITCH = Y
+AXIS_ROLL = X
+AXIS_YAW = RZ
+AXIS_THROTTLE = SLIDER0
+
+# Cougar Throttle
+#GUID = {01000100-0000-0000-0000-504944564944}
+# Now please add the axismappings for this controller here and REMOVE the '#' before the GUID inr order to activate them ! You may remove this line then.
+
+# Cougar Throttle
+#GUID = {01000100-0000-0000-0000-504944564944}
+# Now please add the axismappings for this controller here and REMOVE the '#' before the GUID inr order to activate them ! You may remove this line then.
