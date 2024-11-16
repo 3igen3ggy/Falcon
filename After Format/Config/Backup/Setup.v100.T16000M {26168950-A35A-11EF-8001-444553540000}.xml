@@ -77,71 +77,71 @@
         </DirAssgn>
         <DirAssgn>
           <Callback>
-            <string>SimDoNothing</string>
+            <string>SimOverHeat</string>
             <string>SimDoNothing</string>
           </Callback>
           <SoundID>
-            <int>0</int>
+            <int>312</int>
             <int>0</int>
           </SoundID>
         </DirAssgn>
         <DirAssgn>
           <Callback>
-            <string>SimDoNothing</string>
+            <string>SimTMSRight</string>
             <string>SimDoNothing</string>
           </Callback>
           <SoundID>
-            <int>0</int>
+            <int>-1</int>
             <int>0</int>
           </SoundID>
         </DirAssgn>
         <DirAssgn>
           <Callback>
-            <string>SimDoNothing</string>
+            <string>SimOverHeat</string>
             <string>SimDoNothing</string>
           </Callback>
           <SoundID>
-            <int>0</int>
+            <int>312</int>
             <int>0</int>
           </SoundID>
         </DirAssgn>
         <DirAssgn>
           <Callback>
-            <string>SimDoNothing</string>
+            <string>SimTMSDown</string>
             <string>SimDoNothing</string>
           </Callback>
           <SoundID>
-            <int>0</int>
+            <int>-1</int>
             <int>0</int>
           </SoundID>
         </DirAssgn>
         <DirAssgn>
           <Callback>
-            <string>SimDoNothing</string>
+            <string>SimOverHeat</string>
             <string>SimDoNothing</string>
           </Callback>
           <SoundID>
-            <int>0</int>
+            <int>312</int>
             <int>0</int>
           </SoundID>
         </DirAssgn>
         <DirAssgn>
           <Callback>
-            <string>SimDoNothing</string>
+            <string>SimTMSLeft</string>
             <string>SimDoNothing</string>
           </Callback>
           <SoundID>
-            <int>0</int>
+            <int>-1</int>
             <int>0</int>
           </SoundID>
         </DirAssgn>
         <DirAssgn>
           <Callback>
-            <string>SimDoNothing</string>
+            <string>SimOverHeat</string>
             <string>SimDoNothing</string>
           </Callback>
           <SoundID>
-            <int>0</int>
+            <int>312</int>
             <int>0</int>
           </SoundID>
         </DirAssgn>
@@ -524,9 +524,9 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>SimDoNothing</Callback>
+          <Callback>SimHSDRangeStepUp</Callback>
           <Invoke>Default</Invoke>
-          <SoundID>0</SoundID>
+          <SoundID>-1</SoundID>
         </Assgn>
         <Assgn>
           <Callback>SimDoNothing</Callback>
@@ -3490,71 +3490,71 @@
           </DirAssgn>
           <DirAssgn>
             <Callback>
-              <string>SimDoNothing</string>
+              <string>SimOverHeat</string>
               <string>SimDoNothing</string>
             </Callback>
             <SoundID>
-              <int>0</int>
+              <int>312</int>
               <int>0</int>
             </SoundID>
           </DirAssgn>
           <DirAssgn>
             <Callback>
-              <string>SimDoNothing</string>
+              <string>SimTMSRight</string>
               <string>SimDoNothing</string>
             </Callback>
             <SoundID>
-              <int>0</int>
+              <int>-1</int>
               <int>0</int>
             </SoundID>
           </DirAssgn>
           <DirAssgn>
             <Callback>
-              <string>SimDoNothing</string>
+              <string>SimOverHeat</string>
               <string>SimDoNothing</string>
             </Callback>
             <SoundID>
-              <int>0</int>
+              <int>312</int>
               <int>0</int>
             </SoundID>
           </DirAssgn>
           <DirAssgn>
             <Callback>
-              <string>SimDoNothing</string>
+              <string>SimTMSDown</string>
               <string>SimDoNothing</string>
             </Callback>
             <SoundID>
-              <int>0</int>
+              <int>-1</int>
               <int>0</int>
             </SoundID>
           </DirAssgn>
           <DirAssgn>
             <Callback>
-              <string>SimDoNothing</string>
+              <string>SimOverHeat</string>
               <string>SimDoNothing</string>
             </Callback>
             <SoundID>
-              <int>0</int>
+              <int>312</int>
               <int>0</int>
             </SoundID>
           </DirAssgn>
           <DirAssgn>
             <Callback>
-              <string>SimDoNothing</string>
+              <string>SimTMSLeft</string>
               <string>SimDoNothing</string>
             </Callback>
             <SoundID>
-              <int>0</int>
+              <int>-1</int>
               <int>0</int>
             </SoundID>
           </DirAssgn>
           <DirAssgn>
             <Callback>
-              <string>SimDoNothing</string>
+              <string>SimOverHeat</string>
               <string>SimDoNothing</string>
             </Callback>
             <SoundID>
-              <int>0</int>
+              <int>312</int>
               <int>0</int>
             </SoundID>
           </DirAssgn>
@@ -3937,9 +3937,9 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>SimDoNothing</Callback>
+            <Callback>SimHSDRangeStepUp</Callback>
             <Invoke>Default</Invoke>
-            <SoundID>0</SoundID>
+            <SoundID>-1</SoundID>
           </Assgn>
           <Assgn>
             <Callback>SimDoNothing</Callback>

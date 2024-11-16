@@ -28,28 +28,28 @@
     </AxAssgn>
     <AxAssgn>
       <AxisName>Radar_Antenna_Elevation</AxisName>
-      <AssgnDate>2024-11-05T22:37:28.0723821+01:00</AssgnDate>
-      <Invert>false</Invert>
-      <Saturation>None</Saturation>
-      <Deadzone>None</Deadzone>
-    </AxAssgn>
-    <AxAssgn>
-      <AxisName>HSI_Course_Knob</AxisName>
-      <AssgnDate>2024-11-05T21:59:23.9282496+01:00</AssgnDate>
+      <AssgnDate>2024-11-16T20:31:00.5826547+01:00</AssgnDate>
       <Invert>false</Invert>
       <Saturation>None</Saturation>
       <Deadzone>None</Deadzone>
     </AxAssgn>
     <AxAssgn>
       <AxisName>HSI_Heading_Knob</AxisName>
-      <AssgnDate>2024-11-05T21:59:30.4552254+01:00</AssgnDate>
+      <AssgnDate>2024-11-16T20:28:08.995685+01:00</AssgnDate>
       <Invert>false</Invert>
       <Saturation>None</Saturation>
       <Deadzone>None</Deadzone>
     </AxAssgn>
     <AxAssgn>
-      <AxisName />
-      <AssgnDate>1998-12-12T12:00:00</AssgnDate>
+      <AxisName>HSI_Course_Knob</AxisName>
+      <AssgnDate>2024-11-16T20:30:50.5398221+01:00</AssgnDate>
+      <Invert>false</Invert>
+      <Saturation>None</Saturation>
+      <Deadzone>None</Deadzone>
+    </AxAssgn>
+    <AxAssgn>
+      <AxisName>FOV</AxisName>
+      <AssgnDate>2024-11-16T20:38:07.1668833+01:00</AssgnDate>
       <Invert>false</Invert>
       <Saturation>None</Saturation>
       <Deadzone>None</Deadzone>

@@ -27,8 +27,8 @@
       <Deadzone>None</Deadzone>
     </AxAssgn>
     <AxAssgn>
-      <AxisName>FOV</AxisName>
-      <AssgnDate>2024-11-05T21:57:22.6369827+01:00</AssgnDate>
+      <AxisName>Camera_Distance</AxisName>
+      <AssgnDate>2024-11-16T20:25:54.1691819+01:00</AssgnDate>
       <Invert>false</Invert>
       <Saturation>None</Saturation>
       <Deadzone>None</Deadzone>
@@ -41,8 +41,8 @@
       <Deadzone>None</Deadzone>
     </AxAssgn>
     <AxAssgn>
-      <AxisName>Camera_Distance</AxisName>
-      <AssgnDate>2024-11-05T21:57:35.4069584+01:00</AssgnDate>
+      <AxisName />
+      <AssgnDate>1998-12-12T12:00:00</AssgnDate>
       <Invert>false</Invert>
       <Saturation>None</Saturation>
       <Deadzone>None</Deadzone>
