@@ -455,7 +455,21 @@
                 </axis>
                 <axis description="" id="4"/>
                 <axis description="" id="5"/>
-                <axis description="" id="6"/>
+                <axis description="" id="6">
+                    <container type="basic">
+                        <action-set>
+                            <response-curve>
+                                <mapping type="cubic-spline">
+                                    <control-point x="-1.0" y="1.0"/>
+                                    <control-point x="1.0" y="-1.0"/>
+                                    <control-point x="0.0" y="0.0"/>
+                                </mapping>
+                                <deadzone center-high="0.0" center-low="0.0" high="1.0" low="-1.0"/>
+                            </response-curve>
+                            <remap axis="7" axis-scaling="0.0" axis-type="absolute" vjoy="2"/>
+                        </action-set>
+                    </container>
+                </axis>
                 <axis description="" id="7">
                     <container type="basic">
                         <action-set>
