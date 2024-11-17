@@ -483,7 +483,7 @@
                             <response-curve>
                                 <mapping type="cubic-spline">
                                     <control-point x="-1.0" y="1.0"/>
-                                    <control-point x="1.0" y="-0.9"/>
+                                    <control-point x="1.0" y="-0.8"/>
                                     <control-point x="0.0" y="0.0"/>
                                 </mapping>
                                 <deadzone center-high="0.0" center-low="0.0" high="1.0" low="-1.0"/>
