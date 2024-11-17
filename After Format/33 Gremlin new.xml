@@ -674,7 +674,11 @@
                 </axis>
                 <axis description="" id="8"/>
                 <button description="" id="1"/>
-                <button description="" id="2"/>
+                <button description="" id="2">
+                    <container type="basic">
+                        <action-set/>
+                    </container>
+                </button>
                 <button description="" id="3"/>
                 <button description="" id="4"/>
                 <button description="" id="5"/>
@@ -718,7 +722,15 @@
         <device device-guid="{6F1D2B61-D5A0-11CF-BFC7-444553540000}" label="" name="keyboard" type="keyboard">
             <mode name="Default"/>
             <mode inherit="Default" name="Mode A"/>
-            <mode inherit="Default" name="Mode B"/>
+            <mode inherit="Default" name="Mode B">
+                <key description="" extended="False" id="43">
+                    <container type="basic">
+                        <action-set>
+                            <switch-mode name="Default"/>
+                        </action-set>
+                    </container>
+                </key>
+            </mode>
             <mode inherit="Default" name="Mode C"/>
         </device>
     </devices>
