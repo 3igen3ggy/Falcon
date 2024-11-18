@@ -548,7 +548,7 @@
     <DxAssgn>
       <assign>
         <Assgn>
-          <Callback>OTWSelectF3PadlockMode</Callback>
+          <Callback>OTWSelectF3PadlockModeAA</Callback>
           <Invoke>Default</Invoke>
           <SoundID>-1</SoundID>
         </Assgn>
@@ -3961,7 +3961,7 @@
       <DxAssgn>
         <assign>
           <Assgn>
-            <Callback>OTWSelectF3PadlockMode</Callback>
+            <Callback>OTWSelectF3PadlockModeAA</Callback>
             <Invoke>Default</Invoke>
             <SoundID>-1</SoundID>
           </Assgn>
