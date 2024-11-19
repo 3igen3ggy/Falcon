@@ -1,0 +1,1 @@
+The HOTAS Setup instructions are now in the root BMS folder \HOTAS.

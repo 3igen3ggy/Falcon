@@ -1,0 +1,652 @@
+﻿<?xml version="1.0"?><profile>		
+	<!--BMS_VAC_Profile_(QWERTY) command Set-->	
+	<command name="Install / Remove EPU Ground Safety Pin" phrase="Ground remove safety pin" phrase1="Ground remove E P U safety pin" phrase2="Chief remove safety pin" phrase3="Chief remove E P U safety pin" phrase4="Remove safety pin" phrase5="Remove E P U safety pin" phrase6="Ground install safety pin" phrase7="Ground install E P U safety pin" phrase8="Chief install safety pin" phrase9="Chief install E P U safety pin" phrase10="Install safety pin" phrase11="Install E P U safety pin" feedback="0" soundcom="0" category="ATC 1 Ground" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;t1&quot;" value="t1" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Install / Remove Chocks" phrase="Ground remove chocks" phrase1="Ground chocks away" phrase2="Chief remove chocks" phrase3="Chief chocks away" phrase4="Remove chocks" phrase5="Chocks away" phrase6="Ground install chocks" phrase7="Chief install chocks" phrase8="Install chocks" feedback="0" soundcom="0" category="ATC 1 Ground" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;t2&quot;" value="t2" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Request Taxi for Departure" phrase="Ground request taxi" phrase1="Ground request taxi for departure" phrase2="Request taxi" phrase3="Request taxi for departure" feedback="0" soundcom="0" category="ATC 1 Ground" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;t3&quot;" value="t3" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Request Taxi Back to Ramp" phrase="Ground request taxi back" phrase1="Ground request taxi back to ramp" phrase2="Ground request taxi to apron" phrase3="Ground request taxi to the apron" phrase4="Request taxi back" phrase5="Request taxi back to ramp" phrase6="Request taxi to apron" phrase7="Request taxi to the apron" feedback="0" soundcom="0" category="ATC 1 Ground" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;t4&quot;" value="t4" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Request Hotpit Refuel" phrase="Ground request hotpit refuel" phrase1="Request hotpit refuel" feedback="0" soundcom="0" category="ATC 1 Ground" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;t5&quot;" value="t5" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Say Again" phrase="Ground repeat" phrase1="Ground say again" phrase2="Ground repeat last transmission" feedback="0" soundcom="0" category="ATC 1 Ground" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;t6&quot;" value="t6" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Recharge JFS" phrase="Ground Recharge JFS" phrase1="Chief Recharge JFS" phrase2="Recharge JFS" feedback="0" soundcom="0" category="ATC 1 Ground" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;t7&quot;" value="t7" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Ready for Departure" phrase="Tower ready for departure" phrase1="Tower request early departure" phrase2="Tower request rolling takeoff" phrase3="Ready for departure" phrase4="Request early departure" phrase5="Request rolling takeoff" feedback="0" soundcom="0" category="ATC 2 Tower" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;tt1&quot;" value="tt1" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Request Landing" phrase="Tower Request Landing" phrase1="Request Landing" feedback="0" soundcom="0" category="ATC 2 Tower" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;tt2&quot;" value="tt2" extended="NONE" extended2="NONE" qual="NONE" pause="25" repeat="1" duration="50"/>
+	</command>	
+	<command name="Request Formation Landing" phrase="Tower Request Formation Landing" phrase1="Request Formation Landing" feedback="0" soundcom="0" category="ATC 2 Tower" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;tt3&quot;" value="tt3" extended="NONE" extended2="NONE" qual="NONE" pause="25" repeat="1" duration="50"/>
+	</command>	
+	<command name="Report on Final" phrase="Tower on final" phrase1="Tower short final" phrase2="On final" phrase3="Short final" feedback="0" soundcom="0" category="ATC 2 Tower" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;tt4&quot;" value="tt4" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Report Overhead Break (AI wingmen)" phrase="One in the break" phrase1="Two in the break" phrase2="Three in the break" phrase3="Four in the break" phrase4="Overhead break" feedback="0" soundcom="0" category="ATC 2 Tower" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;tt5&quot;" value="tt5" extended="NONE" extended2="NONE" qual="NONE" pause="25" repeat="1" duration="50"/>
+	</command>	
+	<command name="Declare Emergency" phrase="Tower Declaring an Emergency" phrase1="Tower request emergency landing" phrase2="Tower request priority landing" feedback="0" soundcom="0" category="ATC 2 Tower" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;tt6&quot;" value="tt6" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Abort" phrase="Tower going around" phrase1="Tower cancel approach" phrase2="Tower aborting approach" feedback="0" soundcom="0" category="ATC 2 Tower" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;tt7&quot;" value="tt7" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Say Again" phrase="Tower repeat" phrase1="Tower say again" phrase2="Tower repeat last transmission" feedback="0" soundcom="0" category="ATC 2 Tower" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;tt8&quot;" value="tt8" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Request Vectors for Visual Approach" phrase="Approach request visual approach" phrase1="Approach request vectors for visual approach" phrase2="Request visual approach" phrase3="Request vectors for visual approach" feedback="0" soundcom="0" category="ATC 3 Approach" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;ttt1&quot;" value="ttt1" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Request Vectors for Instrument Approach" phrase="Approach request instrument approach" phrase1="Approach request I L S approach" phrase2="Approach request tacan approach" phrase3="Approach request vectors for instrument approach" phrase4="Approach request vectors for I L S approach" phrase5="Approach request vectors for tacan approach" phrase6="Request vectors for instrument approach" phrase7="Request vectors for I L S approach" phrase8="Request vectors for tacan approach" feedback="0" soundcom="0" category="ATC 3 Approach" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;ttt2&quot;" value="ttt2" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Request Overhead Approach" phrase="Approach request overhead break" phrase1="Approach request overhead approach" phrase2="Request overhead break" phrase3="Request overhead approach" feedback="0" soundcom="0" category="ATC 3 Approach" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;ttt3&quot;" value="ttt3" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Request Unrestricted Approach" phrase="Approach request free approach" phrase1="Approach request straight in approach" phrase2="Approach request own approach" phrase3="Approach request Unrestricted Approach" phrase4="Request free approach" phrase5="Request straight in approach" phrase6="Request own approach" phrase7="Request Unrestricted Approach" feedback="0" soundcom="0" category="ATC 3 Approach" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;ttt4&quot;" value="ttt4" extended="NONE" extended2="NONE" qual="NONE" pause="25" repeat="1" duration="50"/>
+	</command>	
+	<command name="Declare Emergency" phrase="Approach declaring an emergency" phrase1="Approach request emergency landing" phrase2="Approach request priority landing" feedback="0" soundcom="0" category="ATC 3 Approach" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;ttt5&quot;" value="ttt5" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Abort" phrase="Approach going around" phrase1="Approach cancel approach" phrase2="Approach aborting approach" feedback="0" soundcom="0" category="ATC 3 Approach" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;ttt6&quot;" value="ttt6" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Traffic in Sight" phrase="Approach traffic in sight" phrase1="Approach visual on traffic" phrase2="Traffic in sight" phrase3="Visual on traffic" feedback="0" soundcom="0" category="ATC 3 Approach" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;ttt7&quot;" value="ttt7" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Say Again" phrase="Approach repeat" phrase1="Approach say again" phrase2="Approach repeat last transmission" feedback="0" soundcom="0" category="ATC 3 Approach" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;ttt8&quot;" value="ttt8" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Report Airborne" phrase="Departure report airborne" phrase1="Departure airborne" phrase2="Reort airborne" phrase3="Airborne" phrase4="Airborne request departure" feedback="0" soundcom="0" category="ATC 4 Departure" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;tttt1&quot;" value="tttt1" extended="NONE" extended2="NONE" qual="NONE" pause="25" repeat="1" duration="50"/>
+	</command>	
+	<command name="Request QNH" phrase="Tower request QNH" phrase1="Request QNH" feedback="0" soundcom="0" category="ATC 5 Common" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;ttttt1&quot;" value="ttttt1" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Request QFE" phrase="Tower request QFE" phrase1="Request QFE" feedback="0" soundcom="0" category="ATC 5 Common" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;ttttt2&quot;" value="ttttt2" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Takeoff Runway" phrase="Tower takeoff runway" phrase1="Tower say takeoff runway" phrase2="Ground takeoff runway" phrase3="Ground say takeoff runway" phrase4="Request takeoff runway" feedback="0" soundcom="0" category="ATC 5 Common" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;ttttt3&quot;" value="ttttt3" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Landing Runway" phrase="Tower landing runway" phrase1="Tower say landing runway" phrase2="Ground landing runway" phrase3="Ground say landing runway" phrase4="Approach landing runway" phrase5="Approach say landing runway" phrase6="Request landing runway" feedback="0" soundcom="0" category="ATC 5 Common" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;ttttt4&quot;" value="ttttt4" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Request Wind Check" phrase="Tower wind check" phrase1="Tower request wind" phrase2="Tower say wind" phrase3="Wind check" phrase4="Request wind" phrase5="Say wind" feedback="0" soundcom="0" category="ATC 5 Common" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;ttttt5&quot;" value="ttttt5" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Inbound &quot;Mother&quot;" phrase="Mother Inbound" phrase1="Carrier Inbound" phrase2="Inbound" feedback="0" soundcom="0" category="ATC 6 Carrier" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;tttttt1&quot;" value="tttttt1" extended="NONE" extended2="NONE" qual="NONE" pause="25" repeat="1" duration="50"/>
+	</command>	
+	<command name="Report &quot;See You&quot;" phrase="Mother See You" phrase1="Carrier See You" phrase2="See you" feedback="0" soundcom="0" category="ATC 6 Carrier" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;tttttt2&quot;" value="tttttt2" extended="NONE" extended2="NONE" qual="NONE" pause="25" repeat="1" duration="50"/>
+	</command>	
+	<command name="Report &quot;Platform&quot;" phrase="Mother Platform" phrase1="Carrier Platform" phrase2="Platform" feedback="0" soundcom="0" category="ATC 6 Carrier" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;tttttt3&quot;" value="tttttt3" extended="NONE" extended2="NONE" qual="NONE" pause="25" repeat="1" duration="50"/>
+	</command>	
+	<command name="Call &quot;the Ball&quot;" phrase="Roger ball" phrase1="Call the Ball" feedback="0" soundcom="0" category="ATC 6 Carrier" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;tttttt4&quot;" value="tttttt4" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Report Overhead Break" phrase="Mother in the break" phrase1="Carrier in the break" feedback="0" soundcom="0" category="ATC 6 Carrier" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;tttttt5&quot;" value="tttttt5" extended="NONE" extended2="NONE" qual="NONE" pause="25" repeat="1" duration="50"/>
+	</command>	
+	<command name="Abort" phrase="Mother Abort Approach" phrase1="Carrier Abort Approach" phrase2="Mother aborting" phrase3="Carrier aborting" feedback="0" soundcom="0" category="ATC 6 Carrier" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;ttttt6&quot;" value="ttttt6" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Request Picture" phrase="Chalis request picture" phrase1="Chalis say picture" phrase2="Sentry request picture" phrase3="Sentry say picture" phrase4="Dragnet request picture" phrase5="Dragnet say picture" phrase6="Magic request picture" phrase7="Magic say picture" phrase8="Request picture" phrase9="Say picture" phrase10="Picture" feedback="0" soundcom="0" category="AWACS Comms 1 AWACS" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;q1&quot;" value="q1" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Declare" phrase="Chalis declare" phrase1="Sentry declare" phrase2="Dragnet declare" phrase3="Magic declare" phrase4="Declare" feedback="0" soundcom="0" category="AWACS Comms 1 AWACS" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;q2&quot;" value="q2" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Request Help" phrase="Chalis need help" phrase1="Chalis request help" phrase2="Sentry need help" phrase3="Sentry request help" phrase4="Dragnet need help" phrase5="Dragnet request help" phrase6="Magic need help" phrase7="Magic request help" phrase8="Need help" phrase9="Request help" feedback="0" soundcom="0" category="AWACS Comms 1 AWACS" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;q3&quot;" value="q3" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wilco" phrase="Chalis wilco" phrase1="Sentry wilco" phrase2="Dragnet wilco" phrase3="Magic wilco" phrase4="Wilco" feedback="0" soundcom="0" category="AWACS Comms 1 AWACS" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;q4&quot;" value="q4" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Unable" phrase="Chalis unable" phrase1="Sentry unable" phrase2="Dragnet unable" phrase3="Magic unable" phrase4="Unable" feedback="0" soundcom="0" category="AWACS Comms 1 AWACS" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;q5&quot;" value="q5" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Check-In" phrase="Chalis checking in" phrase1="Sentry checking in" phrase2="Dragnet checking in" phrase3="Magic checking in" phrase4="Checking in" feedback="0" soundcom="0" category="AWACS Comms 1 AWACS" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;q6&quot;" value="q6" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Check-Out" phrase="Chalis checking out" phrase1="Sentry checking out" phrase2="Dragnet checking out" phrase3="Magic checking out" phrase4="Checking out" feedback="0" soundcom="0" category="AWACS Comms 1 AWACS" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;q7&quot;" value="q7" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Request Relief" phrase="Chalis request relief" phrase1="Chalis end of slot" phrase2="Sentry request relief" phrase3="Sentry end of slot" phrase4="Dragnet request relief" phrase5="Dragnet end of slot" phrase6="Magic request relief" phrase7="Magic end of slot" phrase8="Request relief" phrase9="End of slot" feedback="0" soundcom="0" category="AWACS Comms 1 AWACS" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;q8&quot;" value="q8" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Request Rescue Chopper" phrase="Mayday Mayday Mayday" phrase1="Chalis request rescue chopper" phrase2="Chalis send rescue chopper" phrase3="Sentry request rescue chopper" phrase4="Sentry send rescue chopper" phrase5="Dragnet request rescue chopper" phrase6="Dragnet send rescue chopper" phrase7="Magic request rescue chopper" phrase8="Magic send rescue chopper" phrase9="Request rescue chopper" phrase10="Send rescue chopper" feedback="0" soundcom="0" category="AWACS Comms 1 AWACS" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;q9&quot;" value="q9" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Vector to Nearest Air Threat" phrase="Chalis vector to threat" phrase1="Chalis vector to nearest threat" phrase2="Chalis bogey dope" phrase3="Sentry vector to threat" phrase4="Sentry vector to nearest threat" phrase5="Sentry bogey dope" phrase6="Dragnet vector to threat" phrase7="Dragnet vector to nearest threat" phrase8="Dragnet bogey dope" phrase9="Magic vector to threat" phrase10="Magic vector to nearest threat" phrase11="Magic bogey dope" phrase12="Vector to threat" phrase13="Vector to nearest threat" phrase14="Bogey dope" feedback="0" soundcom="0" category="AWACS Comms 2 Vector" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;qq1&quot;" value="qq1" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Vector to Target" phrase="Chalis vector to target" phrase1="Chalis request vector to target" phrase2="Sentry vector to target" phrase3="Sentry request vector to target" phrase4="Dragnet vector to target" phrase5="Dragnet request vector to target" phrase6="Magic vector to target" phrase7="Magic request vector to target" phrase8="Vector to target" phrase9="Request vector to target" feedback="0" soundcom="0" category="AWACS Comms 2 Vector" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;qq2&quot;" value="qq2" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Vector to Package" phrase="Chalis vector to package" phrase1="Chalis request vector to package" phrase2="Sentry vector to package" phrase3="Sentry request vector to package" phrase4="Dragnet vector to package" phrase5="Dragnet request vector to package" phrase6="Magic vector to package" phrase7="Magic request vector to package" phrase8="Vector to package" phrase9="Request vector to package" feedback="0" soundcom="0" category="AWACS Comms 2 Vector" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;qq3&quot;" value="qq3" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Vector to Tanker" phrase="Chalis vector to tanker" phrase1="Chalis request vector to tanker" phrase2="Sentry vector to tanker" phrase3="Sentry request vector to tanker" phrase4="Dragnet vector to tanker" phrase5="Dragnet request vector to tanker" phrase6="Magic vector to tanker" phrase7="Magic request vector to tanker" phrase8="Vector to tanker" phrase9="Request vector to tanker" feedback="0" soundcom="0" category="AWACS Comms 2 Vector" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;qq4&quot;" value="qq4" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Vector to Divert Field" phrase="Chalis request vector to divert field" phrase1="Chalis request vector to alternate" phrase2="Sentry request vector to divert field" phrase3="Sentry request vector to alternate" phrase4="Dragnet request vector to divert field" phrase5="Dragnet request vector to alternate" phrase6="Magic request vector to divert field" phrase7="Magic request vector to alternate" phrase8="Request vector to divert field" phrase9="Request vector to alternate" feedback="0" soundcom="0" category="AWACS Comms 2 Vector" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;qq5&quot;" value="qq5" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Vector to Home Plate" phrase="Chalis request vector to home plate" phrase1="Sentry request vector to home plate" phrase2="Dragnet request vector to home plate" phrase3="Magic request vector to home plate" phrase4="Request vector to home plate" feedback="0" soundcom="0" category="AWACS Comms 2 Vector" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;qq6&quot;" value="qq6" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Vector to Carrier Group" phrase="Chalis request vector to carrier" phrase1="Sentry request vector to carrier" phrase2="Dragnet request vector to carrier" phrase3="Magic request vector to carrier" phrase4="Request vector to carrier" feedback="0" soundcom="0" category="AWACS Comms 2 Vector" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;qq7&quot;" value="qq7" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Attack My Target" phrase="Element attack my target" phrase1="Three attack my target" feedback="0" soundcom="0" category="Element Comms 1 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;e1&quot;" value="e1" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Buddy Spike" phrase="Element buddy spike" phrase1="Three buddy spike" feedback="0" soundcom="0" category="Element Comms 1 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;e2&quot;" value="e2" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Raygun" phrase="Element raygun" phrase1="Three raygun" feedback="0" soundcom="0" category="Element Comms 1 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;e3&quot;" value="e3" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Weapons Free" phrase="Element weapons free" phrase1="Three weapons free" feedback="0" soundcom="0" category="Element Comms 1 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;e4&quot;" value="e4" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Weapons Hold" phrase="Element weapons hold" phrase1="Element weapons safe" phrase2="Three weapons hold" phrase3="Three weapons safe" feedback="0" soundcom="0" category="Element Comms 1 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;e5&quot;" value="e5" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Check Your Six" phrase="Element check your six" phrase1="Element check six" phrase2="Three check your six" phrase3="Three check six" feedback="0" soundcom="0" category="Element Comms 1 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;e6&quot;" value="e6" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Clear My Six" phrase="Element clear my six" phrase1="Three clear my six" feedback="0" soundcom="0" category="Element Comms 1 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;e7&quot;" value="e7" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Attack Targets" phrase="Element attack targets" phrase1="Element action" phrase2="Three attack targets" phrase3="Three action" feedback="0" soundcom="0" category="Element Comms 1 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;e8&quot;" value="e8" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Rejoin" phrase="Element rejoin" phrase1="Element rejoin formation" phrase2="Element reform" phrase3="Element get back in formation" phrase4="Three rejoin" phrase5="Three rejoin formation" phrase6="Three reform" phrase7="Three get back in formation" feedback="0" soundcom="0" category="Element Comms 2 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;ee1&quot;" value="ee1" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Drop Stores" phrase="Element drop stores" phrase1="Three drop stores" feedback="0" soundcom="0" category="Element Comms 2 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;ee2&quot;" value="ee2" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Datalink Ground Target" phrase="Element datalink ground target" phrase1="Element dolly ground" phrase2="Three datalink ground target" phrase3="Three dolly ground" feedback="0" soundcom="0" category="Element Comms 2 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;ee3&quot;" value="ee3" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Offensive Pursuit" phrase="Element offensive pursuit" phrase1="Three offensive pursuit" feedback="0" soundcom="0" category="Element Comms 3 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eee1&quot;" value="eee1" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Offensive Split" phrase="Element offensive split" phrase1="Three offensive split" feedback="0" soundcom="0" category="Element Comms 3 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eee2&quot;" value="eee2" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Beam Deploy" phrase="Element beam deploy" phrase1="Three beam deploy" feedback="0" soundcom="0" category="Element Comms 3 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eee3&quot;" value="eee3" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Grinder" phrase="Element grinder" phrase1="Three grinder" feedback="0" soundcom="0" category="Element Comms 3 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eee4&quot;" value="eee4" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Wide Azimuth" phrase="Element wide azimuth" phrase1="Three wide azimuth" feedback="0" soundcom="0" category="Element Comms 3 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eee5&quot;" value="eee5" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Short Azimuth" phrase="Element short azimuth" phrase1="Three short azimuth" feedback="0" soundcom="0" category="Element Comms 3 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eee6&quot;" value="eee6" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Sweep" phrase="Element sweep" phrase1="Three sweep" feedback="0" soundcom="0" category="Element Comms 3 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eee7&quot;" value="eee7" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Defensive" phrase="Element defensive" phrase1="Three defensive" feedback="0" soundcom="0" category="Element Comms 3 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eee8&quot;" value="eee8" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Resume Mission" phrase="Element resume mission" phrase1="Three resume mission" feedback="0" soundcom="0" category="Element Comms 4 Mission" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eeee1&quot;" value="eeee1" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Return to Base" phrase="Element return to base" phrase1="Element R T B" phrase2="Three return to base" phrase3="Three R T B" feedback="0" soundcom="0" category="Element Comms 4 Mission" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eeee2&quot;" value="eeee2" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Snooze Radar" phrase="Element snooze radar" phrase1="Element radar off" phrase2="Element radar to standby" phrase3="Element strangle gadget" phrase4="Three snooze radar" phrase5="Three radar off" phrase6="Three radar to standby" phrase7="Three strangle gadget" feedback="0" soundcom="0" category="Element Comms 4 Mission" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eeee3&quot;" value="eeee3" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Activate Radar" phrase="Element activate radar" phrase1="Element radar on" phrase2="Three activate radar" phrase3="Three radar on" feedback="0" soundcom="0" category="Element Comms 4 Mission" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eeee4&quot;" value="eeee4" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Say Position" phrase="Element say position" phrase1="Element say posit" phrase2="Three say position" phrase3="Three say posit" feedback="0" soundcom="0" category="Element Comms 4 Mission" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eeee5&quot;" value="eeee5" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Say Damage Report" phrase="Element say damage" phrase1="Element damage report" phrase2="Three say damage" phrase3="Three damage report" feedback="0" soundcom="0" category="Element Comms 4 Mission" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eeee6&quot;" value="eeee6" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Say Status" phrase="Element say status" phrase1="Element what luck" phrase2="Three say status" phrase3="Three what luck" feedback="0" soundcom="0" category="Element Comms 4 Mission" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eeee7&quot;" value="eeee7" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Say Fuel State" phrase="Element say fuel" phrase1="Element say fuel state" phrase2="Three say fuel" phrase3="Three say fuel state" feedback="0" soundcom="0" category="Element Comms 4 Mission" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eeee8&quot;" value="eeee8" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Say Weapons State" phrase="Element say weapons" phrase1="Element say weapon state" phrase2="Three say weapons" phrase3="Three say weapon state" feedback="0" soundcom="0" category="Element Comms 4 Mission" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eeee9&quot;" value="eeee9" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Close Up" phrase="Element close up" phrase1="Element close up formation" phrase2="Three close up" phrase3="Three close up formation" feedback="0" soundcom="0" category="Element Comms 5 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eeeee1&quot;" value="eeeee1" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Switch Side" phrase="Element switch side" phrase1="Three switch side" feedback="0" soundcom="0" category="Element Comms 5 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eeeee2&quot;" value="eeeee2" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Break Right" phrase="Element break right" phrase1="Three break right" feedback="0" soundcom="0" category="Element Comms 5 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eeeee3&quot;" value="eeeee3" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Break Left" phrase="Element break left" phrase1="Three break left" feedback="0" soundcom="0" category="Element Comms 5 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eeeee4&quot;" value="eeeee4" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Go Higher" phrase="Element go higher" phrase1="Element stack high" phrase2="Three go higher" phrase3="Three stack high" feedback="0" soundcom="0" category="Element Comms 5 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eeeee5&quot;" value="eeeee5" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Go Lower" phrase="Element go lower" phrase1="Element stack low" phrase2="Three go lower" phrase3="Three stack low" feedback="0" soundcom="0" category="Element Comms 5 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eeeee6&quot;" value="eeeee6" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Flex" phrase="Element flex" phrase1="Three flex" feedback="0" soundcom="0" category="Element Comms 5 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eeeee7&quot;" value="eeeee7" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Kickout" phrase="Element kickout" phrase1="Three kickout" feedback="0" soundcom="0" category="Element Comms 5 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eeeee8&quot;" value="eeeee8" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Go Wedge" phrase="Element go wedge" phrase1="Three go wedge" feedback="0" soundcom="0" category="Element Comms 6 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eeeeee1&quot;" value="eeeeee1" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Go Trail" phrase="Element go trail" phrase1="Three go trail" feedback="0" soundcom="0" category="Element Comms 6 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eeeeee2&quot;" value="eeeeee2" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Go Ladder" phrase="Element go ladder" phrase1="Three go ladder" feedback="0" soundcom="0" category="Element Comms 6 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eeeeee3&quot;" value="eeeeee3" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Go Stack" phrase="Element go stack" phrase1="Three go stack" feedback="0" soundcom="0" category="Element Comms 6 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eeeeee4&quot;" value="eeeeee4" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Go Fluid" phrase="Element go fluid" phrase1="Three go fluid" feedback="0" soundcom="0" category="Element Comms 6 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eeeeee5&quot;" value="eeeeee5" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Go Spread" phrase="Element go spread" phrase1="Three go spread" feedback="0" soundcom="0" category="Element Comms 6 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eeeeee6&quot;" value="eeeeee6" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Go Arrowhead" phrase="Element go arrowhead" phrase1="Three go arrowhead" feedback="0" soundcom="0" category="Element Comms 6 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eeeeee7&quot;" value="eeeeee7" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Fence In" phrase="Element fence in" phrase1="Three fence in" feedback="0" soundcom="0" category="Element Comms 7 Miscellaneous" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eeeeeee1&quot;" value="eeeeeee1" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Fence Out" phrase="Element fence out" phrase1="Three fence out" feedback="0" soundcom="0" category="Element Comms 7 Miscellaneous" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eeeeeee2&quot;" value="eeeeeee2" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Music On" phrase="Element music on" phrase1="Element E C M on" phrase2="Three music off" phrase3="Three E C M off" feedback="0" soundcom="0" category="Element Comms 7 Miscellaneous" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eeeeeee3&quot;" value="eeeeeee3" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Music Off" phrase="Element music off" phrase1="Element E C M off" phrase2="Three music off" phrase3="Three E C M off" feedback="0" soundcom="0" category="Element Comms 7 Miscellaneous" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eeeeeee4&quot;" value="eeeeeee4" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Turn Smoke On" phrase="Element smoke on" phrase1="Three smoke on" feedback="0" soundcom="0" category="Element Comms 7 Miscellaneous" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eeeeeee5&quot;" value="eeeeeee5" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Element Turn Smoke Off" phrase="Element smoke off" phrase1="Three smoke off" feedback="0" soundcom="0" category="Element Comms 7 Miscellaneous" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;eeeeeee6&quot;" value="eeeeeee6" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Attack My Target" phrase="Flight attack my target" feedback="0" soundcom="0" category="Flight Comms 1 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;r1&quot;" value="r1" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Buddy Spike" phrase="Flight buddy spike" feedback="0" soundcom="0" category="Flight Comms 1 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;r2&quot;" value="r2" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Raygun" phrase="Flight raygun" feedback="0" soundcom="0" category="Flight Comms 1 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;r3&quot;" value="r3" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Weapons Free" phrase="Flight weapons free" feedback="0" soundcom="0" category="Flight Comms 1 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;r4&quot;" value="r4" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Weapons Hold" phrase="Flight weapons hold" phrase1="Flight weapons safe" feedback="0" soundcom="0" category="Flight Comms 1 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;r5&quot;" value="r5" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Check Your Six" phrase="Flight check your six" phrase1="Flight check six" feedback="0" soundcom="0" category="Flight Comms 1 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;r6&quot;" value="r6" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Clear My Six" phrase="Flight clear my six" feedback="0" soundcom="0" category="Flight Comms 1 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;r7&quot;" value="r7" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Attack Targets" phrase="Flight attack targets" phrase1="Flight action" feedback="0" soundcom="0" category="Flight Comms 1 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;r8&quot;" value="r8" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Rejoin" phrase="Flight rejoin" phrase1="Flight rejoin formation" phrase2="Flight reform" phrase3="Flight get back in formation" feedback="0" soundcom="0" category="Flight Comms 2 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rr1&quot;" value="rr1" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Drop Stores" phrase="Flight drop stores" feedback="0" soundcom="0" category="Flight Comms 2 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rr2&quot;" value="rr2" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Datalink Ground Target" phrase="Flight datalink ground target" phrase1="Flight dolly ground" feedback="0" soundcom="0" category="Flight Comms 2 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rr3&quot;" value="rr3" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Resume Mission" phrase="Flight resume mission" feedback="0" soundcom="0" category="Flight Comms 3 Mission" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrr1&quot;" value="rrr1" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Return to Base" phrase="Flight return to base" phrase1="Flight R T B" feedback="0" soundcom="0" category="Flight Comms 3 Mission" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrr2&quot;" value="rrr2" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Snooze Radar" phrase="Flight snooze radar" phrase1="Flight radar off" phrase2="Flight radar to standby" phrase3="Flight strangle gadget" feedback="0" soundcom="0" category="Flight Comms 3 Mission" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrr3&quot;" value="rrr3" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Activate Radar" phrase="Flight activate radar" phrase1="Flight radar on" feedback="0" soundcom="0" category="Flight Comms 3 Mission" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrr4&quot;" value="rrr4" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Say Position" phrase="Flight say position" phrase1="Flight say posit" feedback="0" soundcom="0" category="Flight Comms 3 Mission" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrr5&quot;" value="rrr5" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Say Damage Report" phrase="Flight say damage" phrase1="Flight damage report" feedback="0" soundcom="0" category="Flight Comms 3 Mission" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrr6&quot;" value="rrr6" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Say Status" phrase="Flight say status" phrase1="Flight what luck" feedback="0" soundcom="0" category="Flight Comms 3 Mission" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrr7&quot;" value="rrr7" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Say Fuel State" phrase="Flight say fuel" phrase1="Flight say fuel state" feedback="0" soundcom="0" category="Flight Comms 3 Mission" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrr8&quot;" value="rrr8" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Say Weapons State" phrase="Flight say weapons" phrase1="Flight say weapon state" feedback="0" soundcom="0" category="Flight Comms 3 Mission" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrr9&quot;" value="rrr9" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Close Up" phrase="Flight close up" phrase1="Flight close up formation" feedback="0" soundcom="0" category="Flight Comms 4 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrr1&quot;" value="rrrr1" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Switch Side" phrase="Flight switch side" feedback="0" soundcom="0" category="Flight Comms 4 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrr2&quot;" value="rrrr2" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Break Right" phrase="Flight break right" feedback="0" soundcom="0" category="Flight Comms 4 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrr3&quot;" value="rrrr3" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Break Left" phrase="Flight break left" feedback="0" soundcom="0" category="Flight Comms 4 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrr4&quot;" value="rrrr4" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Go Higher" phrase="Flight go higher" phrase1="Flight stack high" feedback="0" soundcom="0" category="Flight Comms 4 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrr5&quot;" value="rrrr5" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Go Lower" phrase="Flight go lower" phrase1="Flight stack low" feedback="0" soundcom="0" category="Flight Comms 4 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrr6&quot;" value="rrrr6" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Flex" phrase="Flight flex" feedback="0" soundcom="0" category="Flight Comms 4 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrr7&quot;" value="rrrr7" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Kickout" phrase="Flight kickout" feedback="0" soundcom="0" category="Flight Comms 4 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrr8&quot;" value="rrrr8" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Go Wedge" phrase="Flight go wedge" feedback="0" soundcom="0" category="Flight Comms 5 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrrr1&quot;" value="rrrrr1" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Go Trail" phrase="Flight go trail" feedback="0" soundcom="0" category="Flight Comms 5 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrrr2&quot;" value="rrrrr2" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Go Ladder" phrase="Flight go ladder" feedback="0" soundcom="0" category="Flight Comms 5 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrrr3&quot;" value="rrrrr3" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Go Stack" phrase="Flight go stack" feedback="0" soundcom="0" category="Flight Comms 5 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrrr4&quot;" value="rrrrr4" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Go Fluid" phrase="Flight go fluid" feedback="0" soundcom="0" category="Flight Comms 5 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrrr5&quot;" value="rrrrr5" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Go Spread" phrase="Flight go spread" feedback="0" soundcom="0" category="Flight Comms 5 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrrr6&quot;" value="rrrrr6" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Go Arrowhead" phrase="Flight go arrowhead" feedback="0" soundcom="0" category="Flight Comms 5 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrrr7&quot;" value="rrrrr7" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Go Box" phrase="Flight go box" feedback="0" soundcom="0" category="Flight Comms 5 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrrr8&quot;" value="rrrrr8" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Go Res Cell" phrase="Flight go res cell" feedback="0" soundcom="0" category="Flight Comms 5 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrrr9&quot;" value="rrrrr9" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Go Vic" phrase="Flight go vic" feedback="0" soundcom="0" category="Flight Comms 6 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrrrr1&quot;" value="rrrrrr1" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Go Line Abreast" phrase="Flight go line abreast" feedback="0" soundcom="0" category="Flight Comms 6 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrrrr2&quot;" value="rrrrrr2" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Go Finger Four" phrase="Flight go finger four" feedback="0" soundcom="0" category="Flight Comms 6 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrrrr3&quot;" value="rrrrrr3" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Go Echelon Left" phrase="Flight go echelon left" feedback="0" soundcom="0" category="Flight Comms 6 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrrrr4&quot;" value="rrrrrr4" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Go Echelon Right" phrase="Flight go echelon right" feedback="0" soundcom="0" category="Flight Comms 6 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrrrr5&quot;" value="rrrrrr5" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Go Diamond" phrase="Flight go diamond" feedback="0" soundcom="0" category="Flight Comms 6 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrrrr6&quot;" value="rrrrrr6" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Fence In" phrase="Flight fence in" feedback="0" soundcom="0" category="Flight Comms 7 Miscellaneous" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrrrrr1&quot;" value="rrrrrrr1" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Fence Out" phrase="Flight fence out" feedback="0" soundcom="0" category="Flight Comms 7 Miscellaneous" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrrrrr2&quot;" value="rrrrrrr2" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Music On" phrase="Flight E C M on" phrase1="Flight music on" feedback="0" soundcom="0" category="Flight Comms 7 Miscellaneous" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrrrrr3&quot;" value="rrrrrrr3" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Music Off" phrase="Flight E C M off" phrase1="Flight music off" feedback="0" soundcom="0" category="Flight Comms 7 Miscellaneous" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrrrrr4&quot;" value="rrrrrrr4" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Turn Smoke On" phrase="Flight smoke on" feedback="0" soundcom="0" category="Flight Comms 7 Miscellaneous" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrrrrr5&quot;" value="rrrrrrr5" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Turn Smoke Off" phrase="Flight smoke off" feedback="0" soundcom="0" category="Flight Comms 7 Miscellaneous" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrrrrr6&quot;" value="rrrrrrr6" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Single-Ship" phrase="Flight Rolling Takeoff" phrase1="Flight Singleship Takeoff" feedback="0" soundcom="0" category="Flight Comms 8 Runway Lineup" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrrrrrr1&quot;" value="rrrrrrrr1" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Element" phrase="Flight lineup section" phrase1="Flight lineup element" phrase2="Flight lineup 2 ship" feedback="0" soundcom="0" category="Flight Comms 8 Runway Lineup" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrrrrrr2&quot;" value="rrrrrrrr2" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Echelon" phrase="Flight lineup echelon" feedback="0" soundcom="0" category="Flight Comms 8 Runway Lineup" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrrrrrr3&quot;" value="rrrrrrrr3" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Four-Ship Three In" phrase="Flight lineup four ship three in" phrase1="Flight lineup four ship number three in the slot" feedback="0" soundcom="0" category="Flight Comms 8 Runway Lineup" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrrrrrr4&quot;" value="rrrrrrrr4" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Flight Four-Ship Four In" phrase="Flight lineup four ship four in" phrase1="Flight lineup four ship number four in the slot" feedback="0" soundcom="0" category="Flight Comms 8 Runway Lineup" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;rrrrrrrr5&quot;" value="rrrrrrrr5" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Request Air Refuelling" phrase="Texaco request refuel" phrase1="Texaco need fuel" phrase2="Texaco need to refuel" phrase3="Copper request refuel" phrase4="Copper need fuel" phrase5="Copper need to refuel" phrase6="Request refuel" phrase7="Need fuel" phrase8="Need to refuel" feedback="0" soundcom="0" category="Tanker Comms" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;y1&quot;" value="y1" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Back In Pre-contact Position" phrase="Texaco ready to take fuel" phrase1="Texaco Back In Precontact Position" phrase2="Copper ready to take fuel" phrase3="Copper Back In Precontact Position" phrase4="Ready to take fuel" phrase5="Back In Precontact Position" feedback="0" soundcom="0" category="Tanker Comms" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;y2&quot;" value="y2" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Done Refueling" phrase="Texaco done refuelling" phrase1="Texaco ready to go" phrase2="Copper done refuelling" phrase3="Copper ready to go" phrase4="Done refuelling" phrase5="Ready to go" feedback="0" soundcom="0" category="Tanker Comms" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;y3&quot;" value="y3" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Attack My Target" phrase="Two attack my target" phrase1="Four attack my target" feedback="0" soundcom="0" category="Wingman Comms 1 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;w1&quot;" value="w1" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Buddy Spike" phrase="Two buddy spike" phrase1="Four buddy spike" feedback="0" soundcom="0" category="Wingman Comms 1 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;w2&quot;" value="w2" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Raygun" phrase="Two raygun" phrase1="Four raygun" feedback="0" soundcom="0" category="Wingman Comms 1 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;w3&quot;" value="w3" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Weapons Free" phrase="Two weapons free" phrase1="Four weapons free" feedback="0" soundcom="0" category="Wingman Comms 1 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;w4&quot;" value="w4" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Weapons Hold" phrase="Two weapons hold" phrase1="Two weapons safe" phrase2="Four weapons hold" phrase3="Four weapons safe" feedback="0" soundcom="0" category="Wingman Comms 1 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;w5&quot;" value="w5" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Check Your Six" phrase="Two check your six" phrase1="Two check six" phrase2="Four check your six" phrase3="Four check six" feedback="0" soundcom="0" category="Wingman Comms 1 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;w6&quot;" value="w6" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Clear My Six" phrase="Two clear my six" phrase1="Four clear my six" feedback="0" soundcom="0" category="Wingman Comms 1 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;w7&quot;" value="w7" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Attack Targets" phrase="Two attack targets" phrase1="Two action" phrase2="Four attack targets" phrase3="Four action" feedback="0" soundcom="0" category="Wingman Comms 1 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;w8&quot;" value="w8" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Go Shooter" phrase="Two go shooter" phrase1="Four go shooter" feedback="0" soundcom="0" category="Wingman Comms 1 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;w9&quot;" value="w9" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Go Cover" phrase="Two go cover" phrase1="Four go cover" feedback="0" soundcom="0" category="Wingman Comms 1 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;w0&quot;" value="w0" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Rejoin" phrase="Two rejoin" phrase1="Two rejoin formation" phrase2="Two reform" phrase3="Two get back in formation" phrase4="Four rejoin" phrase5="Four rejoin formation" phrase6="Four reform" phrase7="Four get back in formation" feedback="0" soundcom="0" category="Wingman Comms 2 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;ww1&quot;" value="ww1" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Split Wing" phrase="Two split wing" phrase1="Four split wing" feedback="0" soundcom="0" category="Wingman Comms 2 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;ww2&quot;" value="ww2" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Glue Wing" phrase="Two glue wing" phrase1="Four glue wing" feedback="0" soundcom="0" category="Wingman Comms 2 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;ww3&quot;" value="ww3" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Drop Stores" phrase="Two drop stores" phrase1="Four drop stores" feedback="0" soundcom="0" category="Wingman Comms 2 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;ww4&quot;" value="ww4" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Datalink Ground Target" phrase="Two datalink ground target" phrase1="Two dolly ground" phrase2="Four datalink ground target" phrase3="Four dolly ground" feedback="0" soundcom="0" category="Wingman Comms 2 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;ww5&quot;" value="ww5" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Offensive Pursuit" phrase="Two offensive pursuit" phrase1="Four offensive pursuit" feedback="0" soundcom="0" category="Wingman Comms 3 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;www1&quot;" value="www1" extended="NONE" extended2="NONE" qual="NONE" pause="25" repeat="1" duration="50"/>
+	</command>	
+	<command name="Wingman Offensive Split" phrase="Two offensive split" phrase1="Four offensive split" feedback="0" soundcom="0" category="Wingman Comms 3 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;www2&quot;" value="www2" extended="NONE" extended2="NONE" qual="NONE" pause="25" repeat="1" duration="50"/>
+	</command>	
+	<command name="Wingman Beam Deploy" phrase="Two beam deploy" phrase1="Four beam deploy" feedback="0" soundcom="0" category="Wingman Comms 3 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;www3&quot;" value="www3" extended="NONE" extended2="NONE" qual="NONE" pause="25" repeat="1" duration="50"/>
+	</command>	
+	<command name="Wingman Grinder" phrase="Two grinder" phrase1="Four grinder" feedback="0" soundcom="0" category="Wingman Comms 3 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;www4&quot;" value="www4" extended="NONE" extended2="NONE" qual="NONE" pause="25" repeat="1" duration="50"/>
+	</command>	
+	<command name="Wingman Wide Azimuth" phrase="Two wide azimuth" phrase1="Four wide azimuth" feedback="0" soundcom="0" category="Wingman Comms 3 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;www5&quot;" value="www5" extended="NONE" extended2="NONE" qual="NONE" pause="25" repeat="1" duration="50"/>
+	</command>	
+	<command name="Wingman Short Azimuth" phrase="Two short azimuth" phrase1="Four short azimuth" feedback="0" soundcom="0" category="Wingman Comms 3 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;www6&quot;" value="www6" extended="NONE" extended2="NONE" qual="NONE" pause="25" repeat="1" duration="50"/>
+	</command>	
+	<command name="Wingman Sweep" phrase="Two sweep" phrase1="Four sweep" feedback="0" soundcom="0" category="Wingman Comms 3 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;www7&quot;" value="www7" extended="NONE" extended2="NONE" qual="NONE" pause="25" repeat="1" duration="50"/>
+	</command>	
+	<command name="Wingman Defensive" phrase="Two defensive" phrase1="Four defensive" feedback="0" soundcom="0" category="Wingman Comms 3 Combat" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;www8&quot;" value="www8" extended="NONE" extended2="NONE" qual="NONE" pause="25" repeat="1" duration="50"/>
+	</command>	
+	<command name="Wingman Resume Mission" phrase="Two resume mission" phrase1="Four resume mission" feedback="0" soundcom="0" category="Wingman Comms 4 Mission" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwww1&quot;" value="wwww1" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Return to Base" phrase="Two return to base" phrase1="Two R T B" phrase2="Four return to base" phrase3="Four R T B" feedback="0" soundcom="0" category="Wingman Comms 4 Mission" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwww2&quot;" value="wwww2" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Snooze Radar" phrase="Two snooze radar" phrase1="Two radar off" phrase2="Two radar to standby" phrase3="Two strangle gadget" phrase4="Four snooze radar" phrase5="Four radar off" phrase6="Four radar to standby" phrase7="Four strangle gadget" feedback="0" soundcom="0" category="Wingman Comms 4 Mission" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwww3&quot;" value="wwww3" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Activate Radar" phrase="Two activate radar" phrase1="Two radar on" phrase2="Four activate radar" phrase3="Four radar on" feedback="0" soundcom="0" category="Wingman Comms 4 Mission" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwww4&quot;" value="wwww4" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Say Position" phrase="Two say position" phrase1="Two say posit" phrase2="Four say position" phrase3="Four say posit" feedback="0" soundcom="0" category="Wingman Comms 4 Mission" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwww5&quot;" value="wwww5" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Say Damage Report" phrase="Two say damage" phrase1="Two damage report" phrase2="Four say damage" phrase3="Four damage report" feedback="0" soundcom="0" category="Wingman Comms 4 Mission" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwww6&quot;" value="wwww6" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Say Status" phrase="Two say status" phrase1="Two what luck" phrase2="Four say status" phrase3="Four what luck" feedback="0" soundcom="0" category="Wingman Comms 4 Mission" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwww7&quot;" value="wwww7" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Say Fuel State" phrase="Two say fuel" phrase1="Two say fuel state" phrase2="Four say fuel" phrase3="Four say fuel state" feedback="0" soundcom="0" category="Wingman Comms 4 Mission" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwww8&quot;" value="wwww8" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Say Weapons State" phrase="Two say weapons" phrase1="Two say weapon state" phrase2="Four say weapons" phrase3="Four say weapon state" feedback="0" soundcom="0" category="Wingman Comms 4 Mission" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwww9&quot;" value="wwww9" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Close Up" phrase="Two close up" phrase1="Two close up formation" phrase2="Two close up" phrase3="Two close up formation" feedback="0" soundcom="0" category="Wingman Comms 5 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwwww1&quot;" value="wwwww1" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Switch Side" phrase="Two switch side" phrase1="Four switch side" feedback="0" soundcom="0" category="Wingman Comms 5 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwwww2&quot;" value="wwwww2" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Break Right" phrase="Two break right" phrase1="Four break right" feedback="0" soundcom="0" category="Wingman Comms 5 Formation" vacmode="awake" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwwww3&quot;" value="wwwww3" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Break Left" phrase="Two break left" phrase1="Four break left" feedback="0" soundcom="0" category="Wingman Comms 5 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwwww4&quot;" value="wwwww4" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Go Higher" phrase="Two go higher" phrase1="Two stack high" phrase2="Four go higher" phrase3="Four stack high" feedback="0" soundcom="0" category="Wingman Comms 5 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwwww5&quot;" value="wwwww5" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Go Lower" phrase="Two go lower" phrase1="Two stack low" phrase2="Four go lower" phrase3="Four stack low" feedback="0" soundcom="0" category="Wingman Comms 5 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwwww6&quot;" value="wwwww6" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Flex" phrase="Two flex" phrase1="Four flex" feedback="0" soundcom="0" category="Wingman Comms 5 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwwww7&quot;" value="wwwww7" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Take the Lead" phrase="Two take lead" phrase1="Four take lead" feedback="0" soundcom="0" category="Wingman Comms 5 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwwww8&quot;" value="wwwww8" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Kickout" phrase="Two kickout" phrase1="Four kickout" feedback="0" soundcom="0" category="Wingman Comms 5 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwwww9&quot;" value="wwwww9" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Go Wedge" phrase="Two go wedge" phrase1="Four go wedge" feedback="0" soundcom="0" category="Wingman Comms 6 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwwwww1&quot;" value="wwwwww1" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Go Trail" phrase="Two go trail" phrase1="Four go trail" feedback="0" soundcom="0" category="Wingman Comms 6 Formation" vacmode="none" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwwwww2&quot;" value="wwwwww2" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Go Ladder" phrase="Two go ladder" phrase1="Four go ladder" feedback="0" soundcom="0" category="Wingman Comms 6 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwwwww3&quot;" value="wwwwww3" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Go Stack" phrase="Two go stack" phrase1="Four go stack" feedback="0" soundcom="0" category="Wingman Comms 6 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwwwww4&quot;" value="wwwwww4" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Go Fluid" phrase="Two go fluid" phrase1="Four go fluid" feedback="0" soundcom="0" category="Wingman Comms 6 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwwwww5&quot;" value="wwwwww5" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Go Spread" phrase="Two go spread" phrase1="Four go spread" feedback="0" soundcom="0" category="Wingman Comms 6 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwwwww6&quot;" value="wwwwww6" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Go Arrowhead" phrase="Two go arrowhead" phrase1="Four go arrowhead" feedback="0" soundcom="0" category="Wingman Comms 6 Formation" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwwwww7&quot;" value="wwwwww7" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Fence In" phrase="Two fence in" phrase1="Four fence in" feedback="0" soundcom="0" category="Wingman Comms 7 Miscellaneous" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwwwwww1&quot;" value="wwwwwww1" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Fence Out" phrase="Two fence out" phrase1="Four fence out" feedback="0" soundcom="0" category="Wingman Comms 7 Miscellaneous" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwwwwww2&quot;" value="wwwwwww2" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Music On" phrase="Two music on" phrase1="Two E C M on" phrase2="Four music on" phrase3="Four E C M on" feedback="0" soundcom="0" category="Wingman Comms 7 Miscellaneous" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwwwwww3&quot;" value="wwwwwww3" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Music Off" phrase="Two music off" phrase1="Two E C M off" phrase2="Four music off" phrase3="Four E C M off" feedback="0" soundcom="0" category="Wingman Comms 7 Miscellaneous" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwwwwww4&quot;" value="wwwwwww4" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Turn Smoke On" phrase="Two smoke on" phrase1="Four smoke on" feedback="0" soundcom="0" category="Wingman Comms 7 Miscellaneous" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwwwwww5&quot;" value="wwwwwww5" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Turn Smoke Off" phrase="Two smoke off" phrase1="Four smoke off" feedback="0" soundcom="0" category="Wingman Comms 7 Miscellaneous" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwwwwww6&quot;" value="wwwwwww6" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Single-Ship" phrase="Two Rolling Takeoff" phrase1="Two Singleship Takeoff" phrase2="Four Rolling Takeoff" phrase3="Four Singleship Takeoff" feedback="0" soundcom="0" category="Wingman Comms 8 Runway Lineup" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwwwwwww1&quot;" value="wwwwwwww1" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+	<command name="Wingman Element" phrase="Two lineup section" phrase1="Four lineup section" phrase2="Two lineup element" phrase3="Four lineup element" phrase4="Two lineup 2 ship" phrase5="Four lineup 2 ship" feedback="0" soundcom="0" category="Wingman Comms 8 Runway Lineup" active="-1">	
+		<key description="NONE + NONE + NONE + &quot;wwwwwwww2&quot;" value="wwwwwwww2" extended="NONE" extended2="NONE" qual="NONE" pause="60" repeat="1" duration="60"/>
+	</command>	
+		
+	<!--Voice Activation Command Set-->	
+	<set key="NONE" key1="F8" vackey1="R-CTRL" vackey2="END" ptamode="armed" vacoffsnd="C:\Users\Phil\Documents\VAC\Sounds\Speech Off.wav" vaconsnd="C:\Users\Phil\Documents\VAC\Sounds\Speech On.wav" off="NONE" off1="NONE" off2="NONE" off3="NONE">	
+		
+		
+		
+		
+		
+		
+</set>		
+</profile>		

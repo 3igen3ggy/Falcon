@@ -1,0 +1,208 @@
+# NOTE:
+# The following code lines contain all new functions introduced in 
+# the latest BMS version with default key assignments for the standard
+# key files (Full, Blank, Basic, Minimum).
+#
+# You can copy and paste them to your key file.
+# It is recommended to paste the lines to their desired category which
+# requires some work on your side.
+# However, pasting them at the end of the key file should work as well.
+
+#===================================================================================
+SimDoNothing -1 0 0XFFFFFFFF 0 0 0 -1 "======== NEW 4.37.0 FUNCTIONS ========"
+SimXMitInc 310 0 0XFFFFFFFF 0 0 0 1 "ECM: XMT Switch - Step Up"
+SimXMitDec 310 0 0XFFFFFFFF 0 0 0 1 "ECM: XMT Switch - Step Down"
+SimXMit1 310 0 0XFFFFFFFF 0 0 0 1 "ECM: XMT Switch - 1"
+SimXMit2 310 0 0XFFFFFFFF 0 0 0 1 "ECM: XMT Switch - 2"
+SimXMit3 310 0 0XFFFFFFFF 0 0 0 1 "ECM: XMT Switch - 3"
+SimECMBit 312 0 0x12 6 0 0 1 "ECM: BIT Button - Hold"
+SimEcmMode1Toggle 318 0 0x10 7 0 0 1 "ECM: Mode 1 - Toggle"
+SimEcmMode2Toggle 318 0 0x11 7 0 0 1 "ECM: Mode 2 - Toggle"
+SimEcmMode3Toggle 318 0 0x12 7 0 0 1 "ECM: Mode 3 - Toggle"
+SimEcmMode4Toggle 318 0 0x13 7 0 0 1 "ECM: Mode 4 - Toggle"
+SimEcmMode5Toggle 318 0 0x15 7 0 0 1 "ECM: Mode 5 - Toggle"
+SimXMTASPISToggle 318 0 0x13 6 0 0 1 "ECM: XMT ASPIS - Toggle"
+SimXMTASPISOper 318 0 0XFFFFFFFF 0 0 0 1 "ECM: XMT ASPIS - OPER"
+SimXMTASPISStdby 318 0 0XFFFFFFFF 0 0 0 1 "ECM: XMT ASPIS - STDBY"
+SimVRHMDReset -1 0 0XFFFFFFFF 0 0 0 1 "SIM: VR Camera Rotation Reset"
+OTWVRZoom -1 0 0XFFFFFFFF 0 0 0 1 "VIEWGEN: VR Zoom - Momentary"
+OTWVRZoomToggle -1 0 0xB5 4 0 0 1 "VIEWGEN: VR Zoom - Toggle"
+SimIFFMasterCycleUp 124 0 0x41 3 0 0 1 "AUX: MASTER Knob - Cycle"
+SimExtlMasterCycleUp 116 0 0x32 4 0 0 1 "EXT: MASTER Knob - Cycle"
+SimAntiColCycleUp 116 0 0x16 5 0 0 1 "EXT: ANTI COLLISION Knob - Cycle"
+SimCursorUpLeft -1 0 0XFFFFFFFF 0 0 0 1 "TQS: RDR CURSOR - Up Left"
+SimCursorUpRight -1 0 0XFFFFFFFF 0 0 0 1 "TQS: RDR CURSOR - Up Right"
+SimCursorDownRight -1 0 0XFFFFFFFF 0 0 0 1 "TQS: RDR CURSOR - Down Right"
+SimCursorDownLeft -1 0 0XFFFFFFFF 0 0 0 1 "TQS: RDR CURSOR - Down Left"
+
+#===================================================================================
+SimDoNothing -1 0 0XFFFFFFFF 0 0 0 -1 "======== NEW 4.37.1 FUNCTIONS ========"
+SimToggleCursorCenter -1 0 0x2E 0 0x2E 4 1 "CKPIT: Toggle Mouse Cursor Center"
+SimClickButtonLeft -1 0 0XFFFFFFFF 0 0 0 1 "CKPIT: Left Click Buttons - Up/Cw"
+SimClickButtonRight -1 0 0XFFFFFFFF 0 0 0 1 "CKPIT: Right Click Buttons - Down/Ccw"
+
+#===================================================================================
+SimDoNothing -1 0 0XFFFFFFFF 0 0 0 -1 "======== NEW 4.37.2 FUNCTIONS ========"
+SimDoNothing -1 0 0XFFFFFFFF 0 0 0 -1 "======== 6.09     GAMEPAD HOTAS ========"
+SimDoNothing -1 0 0XFFFFFFFF 0 0 0 -0 "REM: See Technical Manual for details"
+SimAltHotasTMSShift -1 0 0XFFFFFFFF 0 0 0 1 "GAMEPAD: LB Button - TMS Shift"
+SimAltHotasDMSShift -1 0 0XFFFFFFFF 0 0 0 1 "GAMEPAD: RB Button - DMS Shift"
+SimAltHotasUp -1 0 0XFFFFFFFF 0 0 0 1 "GAMEPAD: D-Pad Up"
+SimAltHotasUpRight -1 0 0XFFFFFFFF 0 0 0 1 "GAMEPAD: D-Pad Up Right "
+SimAltHotasRight -1 0 0XFFFFFFFF 0 0 0 1 "GAMEPAD: D-Pad Right"
+SimAltHotasDownRight -1 0 0XFFFFFFFF 0 0 0 1 "GAMEPAD: D-Pad Down Right"
+SimAltHotasDown -1 0 0XFFFFFFFF 0 0 0 1 "GAMEPAD: D-Pad Down"
+SimAltHotasDownLeft -1 0 0XFFFFFFFF 0 0 0 1 "GAMEPAD: D-Pad Down Left"
+SimAltHotasLeft -1 0 0XFFFFFFFF 0 0 0 1 "GAMEPAD: D-Pad Left"
+SimAltHotasUpLeft -1 0 0XFFFFFFFF 0 0 0 1 "GAMEPAD: D-Pad Up Left"
+SimAltHotasAlpha -1 0 0XFFFFFFFF 0 0 0 1 "GAMEPAD: A Button"
+SimAltHotasBravo -1 0 0XFFFFFFFF 0 0 0 1 "GAMEPAD: B Button"
+SimAltHotasXray -1 0 0XFFFFFFFF 0 0 0 1 "GAMEPAD: X Button"
+SimAltHotasYankey -1 0 0XFFFFFFFF 0 0 0 1 "GAMEPAD: Y Button"
+
+#===================================================================================
+SimDoNothing -1 0 0XFFFFFFFF 0 0 0 -1 "======== NEW 4.37.3 FUNCTIONS ========"
+========F-15 Engine========
+SimF15FingerLiftEngineLeft
+SimF15FingerLiftEngineRight
+SimF15EngineMasterSwitchLeftOnGuardClosed
+SimF15EngineMasterSwitchLeftOnGuardOpen
+SimF15EngineMasterSwitchLeftOff
+SimF15EngineMasterSwitchLeftIncrease
+SimF15EngineMasterSwitchLeftDecrease
+SimF15EngineMasterSwitchRightOnGuardClosed
+SimF15EngineMasterSwitchRightOnGuardOpen
+SimF15EngineMasterSwitchRightOff
+SimF15EngineMasterSwitchRightIncrease
+SimF15EngineMasterSwitchRightDecrease
+SimF15EecSwitchLeftOn
+SimF15EecSwitchLeftOff
+SimF15EecSwitchLeftToggle
+SimF15EecSwitchRightOn
+SimF15EecSwitchRightOff
+SimF15EecSwitchRightToggle
+SimF15GeneratorControlSwitchLeftOn
+SimF15GeneratorControlSwitchLeftOff
+SimF15GeneratorControlSwitchLeftToggle
+SimF15GeneratorControlSwitchRightOn
+SimF15GeneratorControlSwitchRightOff
+SimF15GeneratorControlSwitchRightToggle
+SimF15JfsStarterSwitchOn
+SimF15JfsStarterSwitchOff
+SimF15JfsStarterSwitchToggle
+SimF15JfsStart1
+SimF15JfsStart2
+========F-15 Avionics========
+SimF15MasterArmSwitchOn
+SimF15MasterArmSwitchOff
+SimF15AGSwitchToggle
+SimF15ADISwitchToggle
+SimF15VISwitchToggle
+========F-15 Autopilot========
+SimF15APOverride
+SimF15AttToggle
+SimF15AttHoldOn
+SimF15AttHoldOff
+SimF15AltToggle
+SimF15AltHoldOn
+SimF15AltHoldOff
+========F-15 Electronic Warfare========
+SimF15Ale45DispSelInc
+SimF15Ale45DispSelDec
+SimF15Ale45ModeSelInc
+SimF15Ale45ModeSelDec
+SimF15Ale45FlareEmergJettInc
+SimF15Ale45FlareEmergJettDec
+SimF15TEWSIcsPowerOn
+SimF15TEWSIcsPowerOff
+SimF15TEWSSet1Man
+SimF15TEWSSet1Auto
+SimF15TEWSSet2Man
+SimF15TEWSSet2Auto
+SimF15TEWSSet3Man
+SimF15TEWSSet3Auto
+SimF15TEWSRwrPwrOn
+SimF15TEWSRwrPwrOff
+SimF15TEWSEwwsPwrOn
+SimF15TEWSEwwsPwrOff
+SimF15TEWSEwwsTone
+SimF15TEWSEwwsDefeat
+SimF15EWRwrIcsComba
+SimF15EWRwrIcsTrng
+SimF15EWPodsXmit
+SimF15EWPodsStby
+SimF15EWIcsInc
+SimF15EWIcsDec
+========F-15 Stores Management========
+SimF15EmergJettToggle
+SimF15JettToggle
+SimF15JettSelInc
+SimF15JettSelDec
+========F-15 Other Controls========
+SimF15FlapsRetract
+SimF15FlapsExtend
+========F-15 HOTAS========
+SimF15CycleModes
+SimF15SelectGUN
+SimF15SelectSRM
+SimF15SelectMRM
+SimF15BoatSwitchFWD
+SimF15BoatSwitchAFT
+SimF15CoolieUp
+SimF15CoolieDown
+SimF15CoolieLeft
+SimF15CoolieRight
+SimF15AutoAcqSwitchFwd
+SimF15AutoAcqSwitchAft
+SimF15AutoAcqSwitchDown
+SimF15TargetDesignatorControl
+SimF15SpeedBrakeFwd
+SimF15SpeedBrakeAft
+SimF15MicrophoneFwd
+SimF15MicrophoneAft
+SimF15CounterMeasuresDispenserUp
+SimF15CounterMeasuresDispenserCenter
+SimF15CounterMeasuresDispenserDown
+SimF15PaddleSwitch
+SimF15SpecialBurstingRanging
+SimF15RdrElevControlUp
+SimF15RdrElevControlDown
+SimF15NoseGearSteering
+SimF15WeaponRelease
+SimF15TrimUp
+SimF15TrimDown
+SimF15TrimLeft
+SimF15TrimRight
+SimF15FirstTriggerIdent
+SimF15SecondTriggerIdent
+
+#===================================================================================
+SimDoNothing -1 0 0XFFFFFFFF 0 0 0 -1 "======== NEW 4.37.4 FUNCTIONS ========"
+SimMIDSLVTInc 125 1 0x35 5 0 0 1 "AVIONICS: MIDS Knob - Step Up"
+SimMIDSLVTDec 125 2 0x35 6 0 0 1 "AVIONICS: MIDS Knob - Step Down"
+SimMIDSLVTZero 125 3 0XFFFFFFFF 0 0 0 1 "AVIONICS: MIDS Knob - ZERO"
+SimMIDSLVTOff 125 4 0XFFFFFFFF 0 0 0 1 "AVIONICS: MIDS Knob - OFF"
+SimMIDSLVTOn 125 5 0XFFFFFFFF 0 0 0 1 "AVIONICS: MIDS Knob - ON"
+SimMirrorOpen 322 1 0XFFFFFFFF 0 0 0 1 "CKPIT: Mirror Open"
+SimMirrorClose 322 2 0XFFFFFFFF 0 0 0 1 "CKPIT: Mirror Close"
+SimMixedRealityCoverToggle -1 0 0XFFFFFFFF 0 0 0 1 "SIM: MR Cover Toggle"
+SimMixedRealityCoverToggle -1 0 0x2 1 0 0 1 "SIM: MR Cover Toggle"
+SimF15CautionVolumeInc 116 1 0x1B 5 0 0 1 "ICC: TEWS CAUTION Knob - Volume Incr"
+SimF15CautionVolumeDec 116 2 0x1A 5 0 0 1 "ICC: TEWS CAUTION Knob - Volume Decr"
+SimF15LaunchVolumeInc 116 3 0x1B 3 0 0 1 "ICC: TEWS LAUNCH Knob - Volume Incr"
+SimF15LaunchVolumeDec 116 4 0x1A 3 0 0 1 "ICC: TEWS LAUNCH Knob - Volume Decr"
+SimF15ICSVolumeInc 116 5 0x1B 4 0 0 1 "ICC: ICS Knob - Volume Incr"
+SimF15ICSVolumeDec 116 6 0x1A 4 0 0 1 "ICC: ICS Knob - Volume Decr"
+SimF15WpnVolumeInc 116 6 0x1B 6 0 0 1 "ICC: WPN Knob - Volume Incr"
+SimF15WpnVolumeDec 116 6 0x1A 6 0 0 1 "ICC: WPN Knob - Volume Decr"
+SimTacanIlsTensUnitsInc 116 0 0x3B 3 0 0 1 "ILS: FREQ Inner Knob - 1XX.** - Cycle Up"
+SimTacanIlsTensUnitsDec 116 0 0XFFFFFFFF 0 0 0 1 "ILS: FREQ Inner Knob - 1XX.** - Cycle Down"
+SimTacanIlsDecimalsInc 116 0 0x3C 3 0 0 1 "ILS: FREQ Outer Knob - 1**.XX - Cycle Up"
+SimTacanIlsDecimalsDec 116 0 0XFFFFFFFF 0 0 0 1 "ILS: FREQ Outer Knob - 1**.XX - Cycle Down"
+SimTacanChannelTensHundredsInc 116 0 0x3D 3 0 0 1 "TCN: TCN Inner Knob - XX* - Cycle Up"
+SimTacanChannelTensHundredsDec 116 0 0XFFFFFFFF 0 0 0 1 "TCN: TCN Inner Knob - XX* - Cycle Down"
+SimTacanChannelUnitsInc 116 0 0x3E 3 0 0 1 "TCN: TCN Outer Knob - **X - Cycle Up"
+SimTacanChannelUnitsDec 116 0 0XFFFFFFFF 0 0 0 1 "TCN: TCN Outer Knob - **X - Cycle Down"
+SimF15HudSymToggle 126 0 0x4A 5 0 0 1 "HUD: SYM Switch - Toggle"
+SimF15HudSymNorm 126 0 0XFFFFFFFF 0 0 0 1 "HUD: SYM Switch - NORM"
+SimF15HudSymReject 126 0 0XFFFFFFFF 0 0 0 1 "HUD: SYM Switch - REJ"

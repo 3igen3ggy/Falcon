@@ -1,0 +1,44 @@
+# NOTE:
+# The following code lines contain all new functions introduced in 
+# the latest BMS version with default key assignments for the Pitbuilder
+# key file.
+#
+# You can copy and paste them to your key file.
+# It is recommended to paste the lines to their desired category which
+# requires some work on your side.
+# However, pasting them at the end of the key file should work as well.
+
+#===================================================================================
+SimDoNothing -1 0 0XFFFFFFFF 0 0 0 -1 "======== 4.37.0 NEW FUNCTIONS ========"
+SimXMit1 310 0 0xC 6 0 0 1 "ECM: XMT Switch - 1"
+SimXMit2 310 0 0xC 7 0 0 1 "ECM: XMT Switch - 2"
+SimXMit3 310 0 0xD 3 0 0 1 "ECM: XMT Switch - 3"
+SimECMBit 312 0 0x22 0 0 0 1 "ECM: BIT Button - Hold"
+SimEcmMode1On 318 0 0xD 6 0 0 1 "ECM: Mode 1 - On"
+SimEcmMode1Off 318 0 0x3A 2 0 0 1 "ECM: Mode 1 - Off"
+SimEcmMode2On 318 0 0xD 7 0 0 1 "ECM: Mode 2 - On"
+SimEcmMode2Off 318 0 0x3A 4 0 0 1 "ECM: Mode 2 - Off"
+SimEcmMode3On 318 0 0xE 3 0 0 1 "ECM: Mode 3 - On"
+SimEcmMode3Off 318 0 0x3A 3 0 0 1 "ECM: Mode 3 - Off"
+SimEcmMode4On 318 0 0xE 5 0 0 1 "ECM: Mode 4 - On"
+SimEcmMode4Off 318 0 0x3A 5 0 0 1 "ECM: Mode 4 - Off"
+SimEcmMode5On 318 0 0xE 6 0 0 1 "ECM: Mode 5 - On"
+SimEcmMode5Off 318 0 0x3A 6 0 0 1 "ECM: Mode 5 - Off"
+SimXMTASPISOper 318 0 0XFFFFFFFF 0 0 0 1 "ECM: XMT ASPIS - OPER"
+SimXMTASPISStdby 318 0 0XFFFFFFFF 0 0 0 1 "ECM: XMT ASPIS - STDBY"
+SimCursorUpLeft -1 0 0XFFFFFFFF 0 0 0 1 "TQS: RDR CURSOR - Up Left"
+SimCursorUpRight -1 0 0XFFFFFFFF 0 0 0 1 "TQS: RDR CURSOR - Up Right"
+SimCursorDownRight -1 0 0XFFFFFFFF 0 0 0 1 "TQS: RDR CURSOR - Down Right"
+SimCursorDownLeft -1 0 0XFFFFFFFF 0 0 0 1 "TQS: RDR CURSOR - Down Left"
+SimVRHMDReset -1 0 0XFFFFFFFF 0 0 0 1 "SIM: VR Camera Rotation Reset"
+OTWVRZoom -1 0 0XFFFFFFFF 0 0 0 1 "VIEWGEN: VR Zoom - Momentary"
+OTWVRZoomToggle -1 0 0XFFFFFFFF 0 0 0 1 "VIEWGEN: VR Zoom - Toggle"
+#===================================================================================
+SimDoNothing -1 0 0XFFFFFFFF 0 0 0 -1 "======== 4.37.4 NEW FUNCTIONS ========"
+SimMIDSLVTZero 125 3 0x34 3 0 0 1 "AVIONICS: MIDS Knob - ZERO"
+SimMIDSLVTOff 125 4 0x34 5 0 0 1 "AVIONICS: MIDS Knob - OFF"
+SimMIDSLVTOn 125 5 0x34 6 0 0 1 "AVIONICS: MIDS Knob - ON"
+SimMixedRealityCoverToggle -1 0 0XFFFFFFFF 0 0 0 1 "SIM: MR Cover Toggle"
+SimMixedRealityCoverToggle -1 0 0XFFFFFFFF 0 0 0 1 "SIM: MR Cover Toggle"
+
+
