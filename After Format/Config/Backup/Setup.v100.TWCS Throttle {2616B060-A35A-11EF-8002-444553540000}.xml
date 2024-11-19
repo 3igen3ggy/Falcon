@@ -27,18 +27,18 @@
       <Deadzone>None</Deadzone>
     </AxAssgn>
     <AxAssgn>
-      <AxisName>Toe_Brake_Right</AxisName>
-      <AssgnDate>2020-09-12T01:35:43.986396+02:00</AssgnDate>
+      <AxisName />
+      <AssgnDate>1998-12-12T12:00:00</AssgnDate>
       <Invert>false</Invert>
       <Saturation>None</Saturation>
-      <Deadzone>Small</Deadzone>
+      <Deadzone>None</Deadzone>
     </AxAssgn>
     <AxAssgn>
-      <AxisName>Toe_Brake</AxisName>
-      <AssgnDate>2024-11-03T21:47:52.3771845+01:00</AssgnDate>
+      <AxisName />
+      <AssgnDate>1998-12-12T12:00:00</AssgnDate>
       <Invert>false</Invert>
       <Saturation>None</Saturation>
-      <Deadzone>Small</Deadzone>
+      <Deadzone>None</Deadzone>
     </AxAssgn>
     <AxAssgn>
       <AxisName />
