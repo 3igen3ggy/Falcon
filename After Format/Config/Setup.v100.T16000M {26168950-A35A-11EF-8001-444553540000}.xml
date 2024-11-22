@@ -127,11 +127,11 @@
         </DirAssgn>
         <DirAssgn>
           <Callback>
-            <string>SimTMSLeft</string>
+            <string>SimDoNothing</string>
             <string>SimDoNothing</string>
           </Callback>
           <SoundID>
-            <int>-1</int>
+            <int>0</int>
             <int>0</int>
           </SoundID>
         </DirAssgn>
@@ -3540,11 +3540,11 @@
           </DirAssgn>
           <DirAssgn>
             <Callback>
-              <string>SimTMSLeft</string>
+              <string>SimDoNothing</string>
               <string>SimDoNothing</string>
             </Callback>
             <SoundID>
-              <int>-1</int>
+              <int>0</int>
               <int>0</int>
             </SoundID>
           </DirAssgn>
